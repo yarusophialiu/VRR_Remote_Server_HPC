@@ -1,0 +1,233 @@
+SLURM_ARRAY_TASK_ID: 0
+Scene path: crytek_sponza_path1_seg1_1
+Processing video with bitrate: 1000kbps
+folder /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path1_seg1_1/1000
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path1_seg1_1/refOutput_crytek_sponza_path1_seg1_1_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path1_seg1_1/1000/1000_100_1080.mp4
+
+result.stdout cvvdp=6.1826 [JOD]
+
+
+Command executed successfully.
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path1_seg1_1/refOutput_crytek_sponza_path1_seg1_1_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path1_seg1_1/1000/1000_100_360.mp4
+
+result.stdout cvvdp=5.0740 [JOD]
+
+
+Command executed successfully.
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path1_seg1_1/refOutput_crytek_sponza_path1_seg1_1_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path1_seg1_1/1000/1000_100_480.mp4
+
+result.stdout cvvdp=5.4428 [JOD]
+
+
+Command executed successfully.
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path1_seg1_1/refOutput_crytek_sponza_path1_seg1_1_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path1_seg1_1/1000/1000_100_720.mp4
+
+result.stdout cvvdp=5.7891 [JOD]
+
+
+Command executed successfully.
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path1_seg1_1/refOutput_crytek_sponza_path1_seg1_1_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path1_seg1_1/1000/1000_100_864.mp4
+
+result.stdout cvvdp=5.9589 [JOD]
+
+
+Command executed successfully.
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path1_seg1_1/refOutput_crytek_sponza_path1_seg1_1_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path1_seg1_1/1000/1000_110_1080.mp4
+
+result.stdout cvvdp=6.2424 [JOD]
+
+
+Command executed successfully.
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path1_seg1_1/refOutput_crytek_sponza_path1_seg1_1_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path1_seg1_1/1000/1000_110_360.mp4
+
+result.stdout cvvdp=5.1051 [JOD]
+
+
+Command executed successfully.
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path1_seg1_1/refOutput_crytek_sponza_path1_seg1_1_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path1_seg1_1/1000/1000_110_480.mp4
+
+result.stdout cvvdp=5.4718 [JOD]
+
+
+Command executed successfully.
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path1_seg1_1/refOutput_crytek_sponza_path1_seg1_1_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path1_seg1_1/1000/1000_110_720.mp4
+
+result.stdout cvvdp=5.8514 [JOD]
+
+
+Command executed successfully.
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path1_seg1_1/refOutput_crytek_sponza_path1_seg1_1_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path1_seg1_1/1000/1000_110_864.mp4
+
+result.stdout cvvdp=5.9877 [JOD]
+
+
+Command executed successfully.
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path1_seg1_1/refOutput_crytek_sponza_path1_seg1_1_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path1_seg1_1/1000/1000_120_1080.mp4
+
+result.stdout cvvdp=6.2843 [JOD]
+
+
+Command executed successfully.
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path1_seg1_1/refOutput_crytek_sponza_path1_seg1_1_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path1_seg1_1/1000/1000_120_360.mp4
+
+result.stdout cvvdp=5.1276 [JOD]
+
+
+Command executed successfully.
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path1_seg1_1/refOutput_crytek_sponza_path1_seg1_1_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path1_seg1_1/1000/1000_120_480.mp4
+
+result.stdout cvvdp=5.5063 [JOD]
+
+
+Command executed successfully.
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path1_seg1_1/refOutput_crytek_sponza_path1_seg1_1_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path1_seg1_1/1000/1000_120_720.mp4
+
+result.stdout cvvdp=5.8972 [JOD]
+
+
+Command executed successfully.
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path1_seg1_1/refOutput_crytek_sponza_path1_seg1_1_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path1_seg1_1/1000/1000_120_864.mp4
+
+result.stdout cvvdp=6.0028 [JOD]
+
+
+Command executed successfully.
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path1_seg1_1/refOutput_crytek_sponza_path1_seg1_1_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path1_seg1_1/1000/1000_30_1080.mp4
+
+result.stdout cvvdp=5.2368 [JOD]
+
+
+Command executed successfully.
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path1_seg1_1/refOutput_crytek_sponza_path1_seg1_1_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path1_seg1_1/1000/1000_30_360.mp4
+
+result.stdout cvvdp=4.4254 [JOD]
+
+
+Command executed successfully.
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path1_seg1_1/refOutput_crytek_sponza_path1_seg1_1_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path1_seg1_1/1000/1000_30_480.mp4
+
+result.stdout cvvdp=4.6914 [JOD]
+
+
+Command executed successfully.
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path1_seg1_1/refOutput_crytek_sponza_path1_seg1_1_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path1_seg1_1/1000/1000_30_720.mp4
+
+result.stdout cvvdp=4.9327 [JOD]
+
+
+Command executed successfully.
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path1_seg1_1/refOutput_crytek_sponza_path1_seg1_1_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path1_seg1_1/1000/1000_30_864.mp4
+
+result.stdout cvvdp=5.0427 [JOD]
+
+
+Command executed successfully.
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path1_seg1_1/refOutput_crytek_sponza_path1_seg1_1_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path1_seg1_1/1000/1000_40_1080.mp4
+
+result.stdout cvvdp=5.4429 [JOD]
+
+
+Command executed successfully.
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path1_seg1_1/refOutput_crytek_sponza_path1_seg1_1_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path1_seg1_1/1000/1000_40_360.mp4
+
+result.stdout cvvdp=4.6106 [JOD]
+
+
+Command executed successfully.
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path1_seg1_1/refOutput_crytek_sponza_path1_seg1_1_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path1_seg1_1/1000/1000_40_480.mp4
+
+result.stdout cvvdp=4.9100 [JOD]
+
+
+Command executed successfully.
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path1_seg1_1/refOutput_crytek_sponza_path1_seg1_1_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path1_seg1_1/1000/1000_40_720.mp4
+
+result.stdout cvvdp=5.1682 [JOD]
+
+
+Command executed successfully.
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path1_seg1_1/refOutput_crytek_sponza_path1_seg1_1_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path1_seg1_1/1000/1000_40_864.mp4
+
+result.stdout cvvdp=5.3076 [JOD]
+
+
+Command executed successfully.
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path1_seg1_1/refOutput_crytek_sponza_path1_seg1_1_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path1_seg1_1/1000/1000_50_1080.mp4
+

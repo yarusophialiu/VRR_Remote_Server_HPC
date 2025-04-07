@@ -1,0 +1,17 @@
+Submitted batch job 7845145
+7859591
+7880734
+7880756
+
+Submitted batch job 7899293
+7899413 runcvvdp_stdout.sh
+
+sbatch runcvvdp_logger.sh
+Submitted batch job 7899637
+(base) [yl962@login-q-2 run_cvvdp]$ sbatch runcvvdp_stdout.sh
+Submitted batch job 7899638
+
+    JOBID PARTITION     NAME     USER ST       TIME  NODES NODELIST(REASON)
+7899638_[1]    ampere    cvvdp    yl962 PD       0:00      1 (None) runcvvdp_stdout.sh python runcvvdp.py $SLURM_ARRAY_TASK_ID $scene > "$filename" 2>&1
+7899637_[1]    ampere    cvvdp    yl962 PD       0:00      1 (None) runcvvdp_logger.sh edit python logger stdout
+7899293_[1]    ampere    cvvdp    yl962 PD       0:00      1 (Priority) added log in runcvvdp

@@ -1,0 +1,1524 @@
+SLURM_ARRAY_TASK_ID: 22
+Scene path: crytek_sponza_path3_seg2_2
+Reference file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path3_seg2_2/refOutput_crytek_sponza_path3_seg2_2_166_1080.mp4
+
+
+========================= bitrate 1000 =========================
+Processing video with bitrate: 1000kbps
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path3_seg2_2/refOutput_crytek_sponza_path3_seg2_2_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path3_seg2_2/1000/1000_100_1080.mp4
+
+cvvdp=7.0980 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path3_seg2_2/refOutput_crytek_sponza_path3_seg2_2_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path3_seg2_2/1000/1000_100_360.mp4
+
+cvvdp=6.1488 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path3_seg2_2/refOutput_crytek_sponza_path3_seg2_2_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path3_seg2_2/1000/1000_100_480.mp4
+
+cvvdp=6.5124 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path3_seg2_2/refOutput_crytek_sponza_path3_seg2_2_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path3_seg2_2/1000/1000_100_720.mp4
+
+cvvdp=6.8302 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path3_seg2_2/refOutput_crytek_sponza_path3_seg2_2_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path3_seg2_2/1000/1000_100_864.mp4
+
+cvvdp=6.9310 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path3_seg2_2/refOutput_crytek_sponza_path3_seg2_2_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path3_seg2_2/1000/1000_110_1080.mp4
+
+cvvdp=7.2214 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path3_seg2_2/refOutput_crytek_sponza_path3_seg2_2_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path3_seg2_2/1000/1000_110_360.mp4
+
+cvvdp=6.2252 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path3_seg2_2/refOutput_crytek_sponza_path3_seg2_2_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path3_seg2_2/1000/1000_110_480.mp4
+
+cvvdp=6.5874 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path3_seg2_2/refOutput_crytek_sponza_path3_seg2_2_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path3_seg2_2/1000/1000_110_720.mp4
+
+cvvdp=6.9414 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path3_seg2_2/refOutput_crytek_sponza_path3_seg2_2_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path3_seg2_2/1000/1000_110_864.mp4
+
+cvvdp=7.0538 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path3_seg2_2/refOutput_crytek_sponza_path3_seg2_2_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path3_seg2_2/1000/1000_120_1080.mp4
+
+cvvdp=7.3049 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path3_seg2_2/refOutput_crytek_sponza_path3_seg2_2_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path3_seg2_2/1000/1000_120_360.mp4
+
+cvvdp=6.2866 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path3_seg2_2/refOutput_crytek_sponza_path3_seg2_2_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path3_seg2_2/1000/1000_120_480.mp4
+
+cvvdp=6.6569 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path3_seg2_2/refOutput_crytek_sponza_path3_seg2_2_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path3_seg2_2/1000/1000_120_720.mp4
+
+cvvdp=7.0200 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path3_seg2_2/refOutput_crytek_sponza_path3_seg2_2_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path3_seg2_2/1000/1000_120_864.mp4
+
+cvvdp=7.1412 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path3_seg2_2/refOutput_crytek_sponza_path3_seg2_2_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path3_seg2_2/1000/1000_30_1080.mp4
+
+cvvdp=5.3487 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path3_seg2_2/refOutput_crytek_sponza_path3_seg2_2_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path3_seg2_2/1000/1000_30_360.mp4
+
+cvvdp=4.9189 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path3_seg2_2/refOutput_crytek_sponza_path3_seg2_2_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path3_seg2_2/1000/1000_30_480.mp4
+
+cvvdp=5.0964 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path3_seg2_2/refOutput_crytek_sponza_path3_seg2_2_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path3_seg2_2/1000/1000_30_720.mp4
+
+cvvdp=5.2588 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path3_seg2_2/refOutput_crytek_sponza_path3_seg2_2_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path3_seg2_2/1000/1000_30_864.mp4
+
+cvvdp=5.3132 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path3_seg2_2/refOutput_crytek_sponza_path3_seg2_2_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path3_seg2_2/1000/1000_40_1080.mp4
+
+cvvdp=5.7598 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path3_seg2_2/refOutput_crytek_sponza_path3_seg2_2_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path3_seg2_2/1000/1000_40_360.mp4
+
+cvvdp=5.2247 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path3_seg2_2/refOutput_crytek_sponza_path3_seg2_2_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path3_seg2_2/1000/1000_40_480.mp4
+
+cvvdp=5.4437 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path3_seg2_2/refOutput_crytek_sponza_path3_seg2_2_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path3_seg2_2/1000/1000_40_720.mp4
+
+cvvdp=5.6301 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path3_seg2_2/refOutput_crytek_sponza_path3_seg2_2_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path3_seg2_2/1000/1000_40_864.mp4
+
+cvvdp=5.6896 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path3_seg2_2/refOutput_crytek_sponza_path3_seg2_2_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path3_seg2_2/1000/1000_50_1080.mp4
+
+cvvdp=6.0925 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path3_seg2_2/refOutput_crytek_sponza_path3_seg2_2_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path3_seg2_2/1000/1000_50_360.mp4
+
+cvvdp=5.4692 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path3_seg2_2/refOutput_crytek_sponza_path3_seg2_2_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path3_seg2_2/1000/1000_50_480.mp4
+
+cvvdp=5.7197 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path3_seg2_2/refOutput_crytek_sponza_path3_seg2_2_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path3_seg2_2/1000/1000_50_720.mp4
+
+cvvdp=5.9419 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path3_seg2_2/refOutput_crytek_sponza_path3_seg2_2_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path3_seg2_2/1000/1000_50_864.mp4
+
+cvvdp=6.0119 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path3_seg2_2/refOutput_crytek_sponza_path3_seg2_2_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path3_seg2_2/1000/1000_60_1080.mp4
+
+cvvdp=6.3878 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path3_seg2_2/refOutput_crytek_sponza_path3_seg2_2_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path3_seg2_2/1000/1000_60_360.mp4
+
+cvvdp=5.6721 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path3_seg2_2/refOutput_crytek_sponza_path3_seg2_2_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path3_seg2_2/1000/1000_60_480.mp4
+
+cvvdp=5.9500 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path3_seg2_2/refOutput_crytek_sponza_path3_seg2_2_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path3_seg2_2/1000/1000_60_720.mp4
+
+cvvdp=6.1921 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path3_seg2_2/refOutput_crytek_sponza_path3_seg2_2_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path3_seg2_2/1000/1000_60_864.mp4
+
+cvvdp=6.2974 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path3_seg2_2/refOutput_crytek_sponza_path3_seg2_2_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path3_seg2_2/1000/1000_70_1080.mp4
+
+cvvdp=6.5802 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path3_seg2_2/refOutput_crytek_sponza_path3_seg2_2_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path3_seg2_2/1000/1000_70_360.mp4
+
+cvvdp=5.8291 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path3_seg2_2/refOutput_crytek_sponza_path3_seg2_2_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path3_seg2_2/1000/1000_70_480.mp4
+
+cvvdp=6.1231 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path3_seg2_2/refOutput_crytek_sponza_path3_seg2_2_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path3_seg2_2/1000/1000_70_720.mp4
+
+cvvdp=6.3818 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path3_seg2_2/refOutput_crytek_sponza_path3_seg2_2_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path3_seg2_2/1000/1000_70_864.mp4
+
+cvvdp=6.4979 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path3_seg2_2/refOutput_crytek_sponza_path3_seg2_2_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path3_seg2_2/1000/1000_80_1080.mp4
+
+cvvdp=6.7805 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path3_seg2_2/refOutput_crytek_sponza_path3_seg2_2_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path3_seg2_2/1000/1000_80_360.mp4
+
+cvvdp=5.9563 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path3_seg2_2/refOutput_crytek_sponza_path3_seg2_2_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path3_seg2_2/1000/1000_80_480.mp4
+
+cvvdp=6.2759 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path3_seg2_2/refOutput_crytek_sponza_path3_seg2_2_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path3_seg2_2/1000/1000_80_720.mp4
+
+cvvdp=6.5717 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path3_seg2_2/refOutput_crytek_sponza_path3_seg2_2_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path3_seg2_2/1000/1000_80_864.mp4
+
+cvvdp=6.6919 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path3_seg2_2/refOutput_crytek_sponza_path3_seg2_2_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path3_seg2_2/1000/1000_90_1080.mp4
+
+cvvdp=6.9570 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path3_seg2_2/refOutput_crytek_sponza_path3_seg2_2_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path3_seg2_2/1000/1000_90_360.mp4
+
+cvvdp=6.0655 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path3_seg2_2/refOutput_crytek_sponza_path3_seg2_2_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path3_seg2_2/1000/1000_90_480.mp4
+
+cvvdp=6.4046 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path3_seg2_2/refOutput_crytek_sponza_path3_seg2_2_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path3_seg2_2/1000/1000_90_720.mp4
+
+cvvdp=6.7337 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path3_seg2_2/refOutput_crytek_sponza_path3_seg2_2_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path3_seg2_2/1000/1000_90_864.mp4
+
+cvvdp=6.8627 [JOD]
+
+
+
+========================= bitrate 1500 =========================
+Processing video with bitrate: 1500kbps
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path3_seg2_2/refOutput_crytek_sponza_path3_seg2_2_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path3_seg2_2/1500/1500_100_1080.mp4
+
+cvvdp=7.1647 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path3_seg2_2/refOutput_crytek_sponza_path3_seg2_2_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path3_seg2_2/1500/1500_100_360.mp4
+
+cvvdp=6.1977 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path3_seg2_2/refOutput_crytek_sponza_path3_seg2_2_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path3_seg2_2/1500/1500_100_480.mp4
+
+cvvdp=6.5764 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path3_seg2_2/refOutput_crytek_sponza_path3_seg2_2_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path3_seg2_2/1500/1500_100_720.mp4
+
+cvvdp=6.9385 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path3_seg2_2/refOutput_crytek_sponza_path3_seg2_2_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path3_seg2_2/1500/1500_100_864.mp4
+
+cvvdp=7.0460 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path3_seg2_2/refOutput_crytek_sponza_path3_seg2_2_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path3_seg2_2/1500/1500_110_1080.mp4
+
+cvvdp=7.3060 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path3_seg2_2/refOutput_crytek_sponza_path3_seg2_2_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path3_seg2_2/1500/1500_110_360.mp4
+
+cvvdp=6.2821 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path3_seg2_2/refOutput_crytek_sponza_path3_seg2_2_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path3_seg2_2/1500/1500_110_480.mp4
+
+cvvdp=6.6643 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path3_seg2_2/refOutput_crytek_sponza_path3_seg2_2_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path3_seg2_2/1500/1500_110_720.mp4
+
+cvvdp=7.0248 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path3_seg2_2/refOutput_crytek_sponza_path3_seg2_2_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path3_seg2_2/1500/1500_110_864.mp4
+
+cvvdp=7.1716 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path3_seg2_2/refOutput_crytek_sponza_path3_seg2_2_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path3_seg2_2/1500/1500_120_1080.mp4
+
+cvvdp=7.3975 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path3_seg2_2/refOutput_crytek_sponza_path3_seg2_2_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path3_seg2_2/1500/1500_120_360.mp4
+
+cvvdp=6.3455 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path3_seg2_2/refOutput_crytek_sponza_path3_seg2_2_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path3_seg2_2/1500/1500_120_480.mp4
+
+cvvdp=6.7319 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path3_seg2_2/refOutput_crytek_sponza_path3_seg2_2_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path3_seg2_2/1500/1500_120_720.mp4
+
+cvvdp=7.1074 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path3_seg2_2/refOutput_crytek_sponza_path3_seg2_2_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path3_seg2_2/1500/1500_120_864.mp4
+
+cvvdp=7.2648 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path3_seg2_2/refOutput_crytek_sponza_path3_seg2_2_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path3_seg2_2/1500/1500_30_1080.mp4
+
+cvvdp=5.3861 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path3_seg2_2/refOutput_crytek_sponza_path3_seg2_2_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path3_seg2_2/1500/1500_30_360.mp4
+
+cvvdp=4.9267 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path3_seg2_2/refOutput_crytek_sponza_path3_seg2_2_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path3_seg2_2/1500/1500_30_480.mp4
+
+cvvdp=5.1109 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path3_seg2_2/refOutput_crytek_sponza_path3_seg2_2_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path3_seg2_2/1500/1500_30_720.mp4
+
+cvvdp=5.2844 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path3_seg2_2/refOutput_crytek_sponza_path3_seg2_2_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path3_seg2_2/1500/1500_30_864.mp4
+
+cvvdp=5.3434 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path3_seg2_2/refOutput_crytek_sponza_path3_seg2_2_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path3_seg2_2/1500/1500_40_1080.mp4
+
+cvvdp=5.7869 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path3_seg2_2/refOutput_crytek_sponza_path3_seg2_2_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path3_seg2_2/1500/1500_40_360.mp4
+
+cvvdp=5.2423 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path3_seg2_2/refOutput_crytek_sponza_path3_seg2_2_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path3_seg2_2/1500/1500_40_480.mp4
+
+cvvdp=5.4612 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path3_seg2_2/refOutput_crytek_sponza_path3_seg2_2_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path3_seg2_2/1500/1500_40_720.mp4
+
+cvvdp=5.6743 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path3_seg2_2/refOutput_crytek_sponza_path3_seg2_2_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path3_seg2_2/1500/1500_40_864.mp4
+
+cvvdp=5.7453 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path3_seg2_2/refOutput_crytek_sponza_path3_seg2_2_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path3_seg2_2/1500/1500_50_1080.mp4
+
+cvvdp=6.1402 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path3_seg2_2/refOutput_crytek_sponza_path3_seg2_2_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path3_seg2_2/1500/1500_50_360.mp4
+
+cvvdp=5.4885 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path3_seg2_2/refOutput_crytek_sponza_path3_seg2_2_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path3_seg2_2/1500/1500_50_480.mp4
+
+cvvdp=5.7444 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path3_seg2_2/refOutput_crytek_sponza_path3_seg2_2_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path3_seg2_2/1500/1500_50_720.mp4
+
+cvvdp=5.9951 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path3_seg2_2/refOutput_crytek_sponza_path3_seg2_2_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path3_seg2_2/1500/1500_50_864.mp4
+
+cvvdp=6.0686 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path3_seg2_2/refOutput_crytek_sponza_path3_seg2_2_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path3_seg2_2/1500/1500_60_1080.mp4
+
+cvvdp=6.4431 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path3_seg2_2/refOutput_crytek_sponza_path3_seg2_2_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path3_seg2_2/1500/1500_60_360.mp4
+
+cvvdp=5.6935 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path3_seg2_2/refOutput_crytek_sponza_path3_seg2_2_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path3_seg2_2/1500/1500_60_480.mp4
+
+cvvdp=5.9854 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path3_seg2_2/refOutput_crytek_sponza_path3_seg2_2_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path3_seg2_2/1500/1500_60_720.mp4
+
+cvvdp=6.2541 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path3_seg2_2/refOutput_crytek_sponza_path3_seg2_2_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path3_seg2_2/1500/1500_60_864.mp4
+
+cvvdp=6.3420 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path3_seg2_2/refOutput_crytek_sponza_path3_seg2_2_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path3_seg2_2/1500/1500_70_1080.mp4
+
+cvvdp=6.6722 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path3_seg2_2/refOutput_crytek_sponza_path3_seg2_2_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path3_seg2_2/1500/1500_70_360.mp4
+
+cvvdp=5.8599 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path3_seg2_2/refOutput_crytek_sponza_path3_seg2_2_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path3_seg2_2/1500/1500_70_480.mp4
+
+cvvdp=6.1764 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path3_seg2_2/refOutput_crytek_sponza_path3_seg2_2_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path3_seg2_2/1500/1500_70_720.mp4
+
+cvvdp=6.4653 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path3_seg2_2/refOutput_crytek_sponza_path3_seg2_2_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path3_seg2_2/1500/1500_70_864.mp4
+
+cvvdp=6.5844 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path3_seg2_2/refOutput_crytek_sponza_path3_seg2_2_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path3_seg2_2/1500/1500_80_1080.mp4
+
+cvvdp=6.8935 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path3_seg2_2/refOutput_crytek_sponza_path3_seg2_2_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path3_seg2_2/1500/1500_80_360.mp4
+
+cvvdp=5.9973 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path3_seg2_2/refOutput_crytek_sponza_path3_seg2_2_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path3_seg2_2/1500/1500_80_480.mp4
+
+cvvdp=6.3382 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path3_seg2_2/refOutput_crytek_sponza_path3_seg2_2_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path3_seg2_2/1500/1500_80_720.mp4
+
+cvvdp=6.6612 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path3_seg2_2/refOutput_crytek_sponza_path3_seg2_2_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path3_seg2_2/1500/1500_80_864.mp4
+
+cvvdp=6.7735 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path3_seg2_2/refOutput_crytek_sponza_path3_seg2_2_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path3_seg2_2/1500/1500_90_1080.mp4
+
+cvvdp=7.0832 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path3_seg2_2/refOutput_crytek_sponza_path3_seg2_2_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path3_seg2_2/1500/1500_90_360.mp4
+
+cvvdp=6.1093 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path3_seg2_2/refOutput_crytek_sponza_path3_seg2_2_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path3_seg2_2/1500/1500_90_480.mp4
+
+cvvdp=6.4753 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path3_seg2_2/refOutput_crytek_sponza_path3_seg2_2_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path3_seg2_2/1500/1500_90_720.mp4
+
+cvvdp=6.8064 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path3_seg2_2/refOutput_crytek_sponza_path3_seg2_2_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path3_seg2_2/1500/1500_90_864.mp4
+
+cvvdp=6.9508 [JOD]
+
+
+
+========================= bitrate 2000 =========================
+Processing video with bitrate: 2000kbps
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path3_seg2_2/refOutput_crytek_sponza_path3_seg2_2_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path3_seg2_2/2000/2000_100_1080.mp4
+
+cvvdp=7.2655 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path3_seg2_2/refOutput_crytek_sponza_path3_seg2_2_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path3_seg2_2/2000/2000_100_360.mp4
+
+cvvdp=6.2200 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path3_seg2_2/refOutput_crytek_sponza_path3_seg2_2_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path3_seg2_2/2000/2000_100_480.mp4
+
+cvvdp=6.6160 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path3_seg2_2/refOutput_crytek_sponza_path3_seg2_2_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path3_seg2_2/2000/2000_100_720.mp4
+
+cvvdp=6.9846 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path3_seg2_2/refOutput_crytek_sponza_path3_seg2_2_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path3_seg2_2/2000/2000_100_864.mp4
+
+cvvdp=7.1162 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path3_seg2_2/refOutput_crytek_sponza_path3_seg2_2_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path3_seg2_2/2000/2000_110_1080.mp4
+
+cvvdp=7.4122 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path3_seg2_2/refOutput_crytek_sponza_path3_seg2_2_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path3_seg2_2/2000/2000_110_360.mp4
+
+cvvdp=6.3078 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path3_seg2_2/refOutput_crytek_sponza_path3_seg2_2_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path3_seg2_2/2000/2000_110_480.mp4
+
+cvvdp=6.7137 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path3_seg2_2/refOutput_crytek_sponza_path3_seg2_2_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path3_seg2_2/2000/2000_110_720.mp4
+
+cvvdp=7.0889 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path3_seg2_2/refOutput_crytek_sponza_path3_seg2_2_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path3_seg2_2/2000/2000_110_864.mp4
+
+cvvdp=7.2493 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path3_seg2_2/refOutput_crytek_sponza_path3_seg2_2_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path3_seg2_2/2000/2000_120_1080.mp4
+
+cvvdp=7.5186 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path3_seg2_2/refOutput_crytek_sponza_path3_seg2_2_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path3_seg2_2/2000/2000_120_360.mp4
+
+cvvdp=6.3800 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path3_seg2_2/refOutput_crytek_sponza_path3_seg2_2_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path3_seg2_2/2000/2000_120_480.mp4
+
+cvvdp=6.7887 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path3_seg2_2/refOutput_crytek_sponza_path3_seg2_2_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path3_seg2_2/2000/2000_120_720.mp4
+
+cvvdp=7.1830 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path3_seg2_2/refOutput_crytek_sponza_path3_seg2_2_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path3_seg2_2/2000/2000_120_864.mp4
+
+cvvdp=7.3536 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path3_seg2_2/refOutput_crytek_sponza_path3_seg2_2_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path3_seg2_2/2000/2000_30_1080.mp4
+
+cvvdp=5.4060 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path3_seg2_2/refOutput_crytek_sponza_path3_seg2_2_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path3_seg2_2/2000/2000_30_360.mp4
+
+cvvdp=4.9283 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path3_seg2_2/refOutput_crytek_sponza_path3_seg2_2_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path3_seg2_2/2000/2000_30_480.mp4
+
+cvvdp=5.1139 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path3_seg2_2/refOutput_crytek_sponza_path3_seg2_2_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path3_seg2_2/2000/2000_30_720.mp4
+
+cvvdp=5.3063 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path3_seg2_2/refOutput_crytek_sponza_path3_seg2_2_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path3_seg2_2/2000/2000_30_864.mp4
+
+cvvdp=5.3608 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path3_seg2_2/refOutput_crytek_sponza_path3_seg2_2_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path3_seg2_2/2000/2000_40_1080.mp4
+
+cvvdp=5.8244 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path3_seg2_2/refOutput_crytek_sponza_path3_seg2_2_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path3_seg2_2/2000/2000_40_360.mp4
+
+cvvdp=5.2451 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path3_seg2_2/refOutput_crytek_sponza_path3_seg2_2_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path3_seg2_2/2000/2000_40_480.mp4
+
+cvvdp=5.4706 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path3_seg2_2/refOutput_crytek_sponza_path3_seg2_2_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path3_seg2_2/2000/2000_40_720.mp4
+
+cvvdp=5.6921 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path3_seg2_2/refOutput_crytek_sponza_path3_seg2_2_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path3_seg2_2/2000/2000_40_864.mp4
+
+cvvdp=5.7653 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path3_seg2_2/refOutput_crytek_sponza_path3_seg2_2_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path3_seg2_2/2000/2000_50_1080.mp4
+
+cvvdp=6.1669 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path3_seg2_2/refOutput_crytek_sponza_path3_seg2_2_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path3_seg2_2/2000/2000_50_360.mp4
+
+cvvdp=5.4951 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path3_seg2_2/refOutput_crytek_sponza_path3_seg2_2_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path3_seg2_2/2000/2000_50_480.mp4
+
+cvvdp=5.7643 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path3_seg2_2/refOutput_crytek_sponza_path3_seg2_2_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path3_seg2_2/2000/2000_50_720.mp4
+
+cvvdp=6.0158 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path3_seg2_2/refOutput_crytek_sponza_path3_seg2_2_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path3_seg2_2/2000/2000_50_864.mp4
+
+cvvdp=6.1053 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path3_seg2_2/refOutput_crytek_sponza_path3_seg2_2_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path3_seg2_2/2000/2000_60_1080.mp4
+
+cvvdp=6.4741 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path3_seg2_2/refOutput_crytek_sponza_path3_seg2_2_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path3_seg2_2/2000/2000_60_360.mp4
+
+cvvdp=5.7046 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path3_seg2_2/refOutput_crytek_sponza_path3_seg2_2_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path3_seg2_2/2000/2000_60_480.mp4
+
+cvvdp=5.9997 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path3_seg2_2/refOutput_crytek_sponza_path3_seg2_2_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path3_seg2_2/2000/2000_60_720.mp4
+
+cvvdp=6.2901 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path3_seg2_2/refOutput_crytek_sponza_path3_seg2_2_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path3_seg2_2/2000/2000_60_864.mp4
+
+cvvdp=6.3916 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path3_seg2_2/refOutput_crytek_sponza_path3_seg2_2_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path3_seg2_2/2000/2000_70_1080.mp4
+
+cvvdp=6.7232 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path3_seg2_2/refOutput_crytek_sponza_path3_seg2_2_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path3_seg2_2/2000/2000_70_360.mp4
+
+cvvdp=5.8727 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path3_seg2_2/refOutput_crytek_sponza_path3_seg2_2_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path3_seg2_2/2000/2000_70_480.mp4
+
+cvvdp=6.1998 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path3_seg2_2/refOutput_crytek_sponza_path3_seg2_2_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path3_seg2_2/2000/2000_70_720.mp4
+
+cvvdp=6.5117 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path3_seg2_2/refOutput_crytek_sponza_path3_seg2_2_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path3_seg2_2/2000/2000_70_864.mp4
+
+cvvdp=6.6195 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path3_seg2_2/refOutput_crytek_sponza_path3_seg2_2_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path3_seg2_2/2000/2000_80_1080.mp4
+
+cvvdp=6.9467 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path3_seg2_2/refOutput_crytek_sponza_path3_seg2_2_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path3_seg2_2/2000/2000_80_360.mp4
+
+cvvdp=6.0139 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path3_seg2_2/refOutput_crytek_sponza_path3_seg2_2_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path3_seg2_2/2000/2000_80_480.mp4
+
+cvvdp=6.3674 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path3_seg2_2/refOutput_crytek_sponza_path3_seg2_2_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path3_seg2_2/2000/2000_80_720.mp4
+
+cvvdp=6.6986 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path3_seg2_2/refOutput_crytek_sponza_path3_seg2_2_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path3_seg2_2/2000/2000_80_864.mp4
+
+cvvdp=6.8135 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path3_seg2_2/refOutput_crytek_sponza_path3_seg2_2_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path3_seg2_2/2000/2000_90_1080.mp4
+
+cvvdp=7.1104 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path3_seg2_2/refOutput_crytek_sponza_path3_seg2_2_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path3_seg2_2/2000/2000_90_360.mp4
+
+cvvdp=6.1269 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path3_seg2_2/refOutput_crytek_sponza_path3_seg2_2_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path3_seg2_2/2000/2000_90_480.mp4
+
+cvvdp=6.4995 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path3_seg2_2/refOutput_crytek_sponza_path3_seg2_2_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path3_seg2_2/2000/2000_90_720.mp4
+
+cvvdp=6.8670 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path3_seg2_2/refOutput_crytek_sponza_path3_seg2_2_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path3_seg2_2/2000/2000_90_864.mp4
+
+cvvdp=6.9904 [JOD]
+
+
+
+========================= bitrate 3000 =========================
+Processing video with bitrate: 3000kbps
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path3_seg2_2/refOutput_crytek_sponza_path3_seg2_2_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path3_seg2_2/3000/3000_100_1080.mp4
+
+cvvdp=7.3315 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path3_seg2_2/refOutput_crytek_sponza_path3_seg2_2_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path3_seg2_2/3000/3000_100_360.mp4
+
+cvvdp=6.2482 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path3_seg2_2/refOutput_crytek_sponza_path3_seg2_2_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path3_seg2_2/3000/3000_100_480.mp4
+
+cvvdp=6.6474 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path3_seg2_2/refOutput_crytek_sponza_path3_seg2_2_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path3_seg2_2/3000/3000_100_720.mp4
+
+cvvdp=7.0530 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path3_seg2_2/refOutput_crytek_sponza_path3_seg2_2_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path3_seg2_2/3000/3000_100_864.mp4
+
+cvvdp=7.1873 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path3_seg2_2/refOutput_crytek_sponza_path3_seg2_2_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path3_seg2_2/3000/3000_110_1080.mp4
+
+cvvdp=7.4811 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path3_seg2_2/refOutput_crytek_sponza_path3_seg2_2_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path3_seg2_2/3000/3000_110_360.mp4
+
+cvvdp=6.3372 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path3_seg2_2/refOutput_crytek_sponza_path3_seg2_2_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path3_seg2_2/3000/3000_110_480.mp4
+
+cvvdp=6.7546 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path3_seg2_2/refOutput_crytek_sponza_path3_seg2_2_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path3_seg2_2/3000/3000_110_720.mp4
+
+cvvdp=7.1676 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path3_seg2_2/refOutput_crytek_sponza_path3_seg2_2_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path3_seg2_2/3000/3000_110_864.mp4
+
+cvvdp=7.3273 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path3_seg2_2/refOutput_crytek_sponza_path3_seg2_2_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path3_seg2_2/3000/3000_120_1080.mp4
+
+cvvdp=7.5935 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path3_seg2_2/refOutput_crytek_sponza_path3_seg2_2_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path3_seg2_2/3000/3000_120_360.mp4
+
+cvvdp=6.4076 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path3_seg2_2/refOutput_crytek_sponza_path3_seg2_2_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path3_seg2_2/3000/3000_120_480.mp4
+
+cvvdp=6.8374 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path3_seg2_2/refOutput_crytek_sponza_path3_seg2_2_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path3_seg2_2/3000/3000_120_720.mp4
+
+cvvdp=7.2580 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path3_seg2_2/refOutput_crytek_sponza_path3_seg2_2_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path3_seg2_2/3000/3000_120_864.mp4
+
+cvvdp=7.4105 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path3_seg2_2/refOutput_crytek_sponza_path3_seg2_2_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path3_seg2_2/3000/3000_30_1080.mp4
+
+cvvdp=5.4266 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path3_seg2_2/refOutput_crytek_sponza_path3_seg2_2_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path3_seg2_2/3000/3000_30_360.mp4
+
+cvvdp=4.9277 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path3_seg2_2/refOutput_crytek_sponza_path3_seg2_2_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path3_seg2_2/3000/3000_30_480.mp4
+
+cvvdp=5.1186 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path3_seg2_2/refOutput_crytek_sponza_path3_seg2_2_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path3_seg2_2/3000/3000_30_720.mp4
+
+cvvdp=5.3190 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path3_seg2_2/refOutput_crytek_sponza_path3_seg2_2_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path3_seg2_2/3000/3000_30_864.mp4
+
+cvvdp=5.3810 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path3_seg2_2/refOutput_crytek_sponza_path3_seg2_2_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path3_seg2_2/3000/3000_40_1080.mp4
+
+cvvdp=5.8505 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path3_seg2_2/refOutput_crytek_sponza_path3_seg2_2_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path3_seg2_2/3000/3000_40_360.mp4
+
+cvvdp=5.2490 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path3_seg2_2/refOutput_crytek_sponza_path3_seg2_2_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path3_seg2_2/3000/3000_40_480.mp4
+
+cvvdp=5.4790 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path3_seg2_2/refOutput_crytek_sponza_path3_seg2_2_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path3_seg2_2/3000/3000_40_720.mp4
+
+cvvdp=5.7174 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path3_seg2_2/refOutput_crytek_sponza_path3_seg2_2_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path3_seg2_2/3000/3000_40_864.mp4
+
+cvvdp=5.7899 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path3_seg2_2/refOutput_crytek_sponza_path3_seg2_2_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path3_seg2_2/3000/3000_50_1080.mp4
+
+cvvdp=6.2144 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path3_seg2_2/refOutput_crytek_sponza_path3_seg2_2_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path3_seg2_2/3000/3000_50_360.mp4
+
+cvvdp=5.5024 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path3_seg2_2/refOutput_crytek_sponza_path3_seg2_2_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path3_seg2_2/3000/3000_50_480.mp4
+
+cvvdp=5.7737 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path3_seg2_2/refOutput_crytek_sponza_path3_seg2_2_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path3_seg2_2/3000/3000_50_720.mp4
+
+cvvdp=6.0488 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path3_seg2_2/refOutput_crytek_sponza_path3_seg2_2_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path3_seg2_2/3000/3000_50_864.mp4
+
+cvvdp=6.1352 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path3_seg2_2/refOutput_crytek_sponza_path3_seg2_2_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path3_seg2_2/3000/3000_60_1080.mp4
+
+cvvdp=6.5164 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path3_seg2_2/refOutput_crytek_sponza_path3_seg2_2_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path3_seg2_2/3000/3000_60_360.mp4
+
+cvvdp=5.7143 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path3_seg2_2/refOutput_crytek_sponza_path3_seg2_2_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path3_seg2_2/3000/3000_60_480.mp4
+
+cvvdp=6.0165 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path3_seg2_2/refOutput_crytek_sponza_path3_seg2_2_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path3_seg2_2/3000/3000_60_720.mp4
+
+cvvdp=6.3206 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path3_seg2_2/refOutput_crytek_sponza_path3_seg2_2_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path3_seg2_2/3000/3000_60_864.mp4
+
+cvvdp=6.4242 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path3_seg2_2/refOutput_crytek_sponza_path3_seg2_2_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path3_seg2_2/3000/3000_70_1080.mp4
+
+cvvdp=6.7739 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path3_seg2_2/refOutput_crytek_sponza_path3_seg2_2_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path3_seg2_2/3000/3000_70_360.mp4
+
+cvvdp=5.8844 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path3_seg2_2/refOutput_crytek_sponza_path3_seg2_2_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path3_seg2_2/3000/3000_70_480.mp4
+
+cvvdp=6.2230 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path3_seg2_2/refOutput_crytek_sponza_path3_seg2_2_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path3_seg2_2/3000/3000_70_720.mp4
+
+cvvdp=6.5561 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path3_seg2_2/refOutput_crytek_sponza_path3_seg2_2_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path3_seg2_2/3000/3000_70_864.mp4
+
+cvvdp=6.6663 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path3_seg2_2/refOutput_crytek_sponza_path3_seg2_2_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path3_seg2_2/3000/3000_80_1080.mp4
+
+cvvdp=6.9836 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path3_seg2_2/refOutput_crytek_sponza_path3_seg2_2_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path3_seg2_2/3000/3000_80_360.mp4
+
+cvvdp=6.0302 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path3_seg2_2/refOutput_crytek_sponza_path3_seg2_2_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path3_seg2_2/3000/3000_80_480.mp4
+
+cvvdp=6.3913 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path3_seg2_2/refOutput_crytek_sponza_path3_seg2_2_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path3_seg2_2/3000/3000_80_720.mp4
+
+cvvdp=6.7531 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path3_seg2_2/refOutput_crytek_sponza_path3_seg2_2_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path3_seg2_2/3000/3000_80_864.mp4
+
+cvvdp=6.8817 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path3_seg2_2/refOutput_crytek_sponza_path3_seg2_2_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path3_seg2_2/3000/3000_90_1080.mp4
+
+cvvdp=7.1851 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path3_seg2_2/refOutput_crytek_sponza_path3_seg2_2_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path3_seg2_2/3000/3000_90_360.mp4
+
+cvvdp=6.1476 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path3_seg2_2/refOutput_crytek_sponza_path3_seg2_2_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path3_seg2_2/3000/3000_90_480.mp4
+
+cvvdp=6.5348 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path3_seg2_2/refOutput_crytek_sponza_path3_seg2_2_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path3_seg2_2/3000/3000_90_720.mp4
+
+cvvdp=6.9177 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path3_seg2_2/refOutput_crytek_sponza_path3_seg2_2_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path3_seg2_2/3000/3000_90_864.mp4
+
+cvvdp=7.0581 [JOD]
+
+
+
+========================= bitrate 4000 =========================
+Processing video with bitrate: 4000kbps
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path3_seg2_2/refOutput_crytek_sponza_path3_seg2_2_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path3_seg2_2/4000/4000_100_1080.mp4
+
+cvvdp=7.3647 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path3_seg2_2/refOutput_crytek_sponza_path3_seg2_2_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path3_seg2_2/4000/4000_100_360.mp4
+
+cvvdp=6.2560 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path3_seg2_2/refOutput_crytek_sponza_path3_seg2_2_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path3_seg2_2/4000/4000_100_480.mp4
+
+cvvdp=6.6703 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path3_seg2_2/refOutput_crytek_sponza_path3_seg2_2_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path3_seg2_2/4000/4000_100_720.mp4
+
+cvvdp=7.0806 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path3_seg2_2/refOutput_crytek_sponza_path3_seg2_2_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path3_seg2_2/4000/4000_100_864.mp4
+
+cvvdp=7.2338 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path3_seg2_2/refOutput_crytek_sponza_path3_seg2_2_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path3_seg2_2/4000/4000_110_1080.mp4
+
+cvvdp=7.5163 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path3_seg2_2/refOutput_crytek_sponza_path3_seg2_2_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path3_seg2_2/4000/4000_110_360.mp4
+
+cvvdp=6.3468 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path3_seg2_2/refOutput_crytek_sponza_path3_seg2_2_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path3_seg2_2/4000/4000_110_480.mp4
+
+cvvdp=6.7771 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path3_seg2_2/refOutput_crytek_sponza_path3_seg2_2_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path3_seg2_2/4000/4000_110_720.mp4
+
+cvvdp=7.2072 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path3_seg2_2/refOutput_crytek_sponza_path3_seg2_2_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path3_seg2_2/4000/4000_110_864.mp4
+
+cvvdp=7.3770 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path3_seg2_2/refOutput_crytek_sponza_path3_seg2_2_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path3_seg2_2/4000/4000_120_1080.mp4
+
+cvvdp=7.6378 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path3_seg2_2/refOutput_crytek_sponza_path3_seg2_2_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path3_seg2_2/4000/4000_120_360.mp4
+
+cvvdp=6.4225 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path3_seg2_2/refOutput_crytek_sponza_path3_seg2_2_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path3_seg2_2/4000/4000_120_480.mp4
+
+cvvdp=6.8567 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path3_seg2_2/refOutput_crytek_sponza_path3_seg2_2_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path3_seg2_2/4000/4000_120_720.mp4
+
+cvvdp=7.3056 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path3_seg2_2/refOutput_crytek_sponza_path3_seg2_2_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path3_seg2_2/4000/4000_120_864.mp4
+
+cvvdp=7.4729 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path3_seg2_2/refOutput_crytek_sponza_path3_seg2_2_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path3_seg2_2/4000/4000_30_1080.mp4
+
+cvvdp=5.4344 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path3_seg2_2/refOutput_crytek_sponza_path3_seg2_2_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path3_seg2_2/4000/4000_30_360.mp4
+
+cvvdp=4.9264 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path3_seg2_2/refOutput_crytek_sponza_path3_seg2_2_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path3_seg2_2/4000/4000_30_480.mp4
+
+cvvdp=5.1188 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path3_seg2_2/refOutput_crytek_sponza_path3_seg2_2_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path3_seg2_2/4000/4000_30_720.mp4
+
+cvvdp=5.3215 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path3_seg2_2/refOutput_crytek_sponza_path3_seg2_2_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path3_seg2_2/4000/4000_30_864.mp4
+
+cvvdp=5.3868 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path3_seg2_2/refOutput_crytek_sponza_path3_seg2_2_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path3_seg2_2/4000/4000_40_1080.mp4
+
+cvvdp=5.8661 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path3_seg2_2/refOutput_crytek_sponza_path3_seg2_2_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path3_seg2_2/4000/4000_40_360.mp4
+
+cvvdp=5.2481 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path3_seg2_2/refOutput_crytek_sponza_path3_seg2_2_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path3_seg2_2/4000/4000_40_480.mp4
+
+cvvdp=5.4807 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path3_seg2_2/refOutput_crytek_sponza_path3_seg2_2_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path3_seg2_2/4000/4000_40_720.mp4
+
+cvvdp=5.7277 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path3_seg2_2/refOutput_crytek_sponza_path3_seg2_2_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path3_seg2_2/4000/4000_40_864.mp4
+
+cvvdp=5.8037 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path3_seg2_2/refOutput_crytek_sponza_path3_seg2_2_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path3_seg2_2/4000/4000_50_1080.mp4
+
+cvvdp=6.2286 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path3_seg2_2/refOutput_crytek_sponza_path3_seg2_2_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path3_seg2_2/4000/4000_50_360.mp4
+
+cvvdp=5.5046 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path3_seg2_2/refOutput_crytek_sponza_path3_seg2_2_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path3_seg2_2/4000/4000_50_480.mp4
+
+cvvdp=5.7781 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path3_seg2_2/refOutput_crytek_sponza_path3_seg2_2_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path3_seg2_2/4000/4000_50_720.mp4
+
+cvvdp=6.0597 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path3_seg2_2/refOutput_crytek_sponza_path3_seg2_2_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path3_seg2_2/4000/4000_50_864.mp4
+
+cvvdp=6.1560 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path3_seg2_2/refOutput_crytek_sponza_path3_seg2_2_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path3_seg2_2/4000/4000_60_1080.mp4
+
+cvvdp=6.5383 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path3_seg2_2/refOutput_crytek_sponza_path3_seg2_2_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path3_seg2_2/4000/4000_60_360.mp4
+
+cvvdp=5.7179 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path3_seg2_2/refOutput_crytek_sponza_path3_seg2_2_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path3_seg2_2/4000/4000_60_480.mp4
+
+cvvdp=6.0241 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path3_seg2_2/refOutput_crytek_sponza_path3_seg2_2_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path3_seg2_2/4000/4000_60_720.mp4
+
+cvvdp=6.3421 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path3_seg2_2/refOutput_crytek_sponza_path3_seg2_2_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path3_seg2_2/4000/4000_60_864.mp4
+
+cvvdp=6.4453 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path3_seg2_2/refOutput_crytek_sponza_path3_seg2_2_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path3_seg2_2/4000/4000_70_1080.mp4
+
+cvvdp=6.8052 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path3_seg2_2/refOutput_crytek_sponza_path3_seg2_2_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path3_seg2_2/4000/4000_70_360.mp4
+
+cvvdp=5.8905 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path3_seg2_2/refOutput_crytek_sponza_path3_seg2_2_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path3_seg2_2/4000/4000_70_480.mp4
+
+cvvdp=6.2309 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path3_seg2_2/refOutput_crytek_sponza_path3_seg2_2_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path3_seg2_2/4000/4000_70_720.mp4
+
+cvvdp=6.5812 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path3_seg2_2/refOutput_crytek_sponza_path3_seg2_2_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path3_seg2_2/4000/4000_70_864.mp4
+
+cvvdp=6.6973 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path3_seg2_2/refOutput_crytek_sponza_path3_seg2_2_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path3_seg2_2/4000/4000_80_1080.mp4
+
+cvvdp=7.0277 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path3_seg2_2/refOutput_crytek_sponza_path3_seg2_2_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path3_seg2_2/4000/4000_80_360.mp4
+
+cvvdp=6.0364 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path3_seg2_2/refOutput_crytek_sponza_path3_seg2_2_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path3_seg2_2/4000/4000_80_480.mp4
+
+cvvdp=6.4040 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path3_seg2_2/refOutput_crytek_sponza_path3_seg2_2_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path3_seg2_2/4000/4000_80_720.mp4
+
+cvvdp=6.7748 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path3_seg2_2/refOutput_crytek_sponza_path3_seg2_2_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path3_seg2_2/4000/4000_80_864.mp4
+
+cvvdp=6.9049 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path3_seg2_2/refOutput_crytek_sponza_path3_seg2_2_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path3_seg2_2/4000/4000_90_1080.mp4
+
+cvvdp=7.2163 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path3_seg2_2/refOutput_crytek_sponza_path3_seg2_2_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path3_seg2_2/4000/4000_90_360.mp4
+
+cvvdp=6.1561 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path3_seg2_2/refOutput_crytek_sponza_path3_seg2_2_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path3_seg2_2/4000/4000_90_480.mp4
+
+cvvdp=6.5553 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path3_seg2_2/refOutput_crytek_sponza_path3_seg2_2_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path3_seg2_2/4000/4000_90_720.mp4
+
+cvvdp=6.9506 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/crytek_sponza/crytek_sponza_path3_seg2_2/refOutput_crytek_sponza_path3_seg2_2_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/crytek_sponza/crytek_sponza_path3_seg2_2/4000/4000_90_864.mp4
+
+cvvdp=7.0854 [JOD]
+

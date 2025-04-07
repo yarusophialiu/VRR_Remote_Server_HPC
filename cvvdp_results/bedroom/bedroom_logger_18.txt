@@ -1,0 +1,1524 @@
+SLURM_ARRAY_TASK_ID: 17
+Scene path: bedroom_path2_seg3_3
+Reference file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bedroom/bedroom_path2_seg3_3/refOutput_bedroom_path2_seg3_3_166_1080.mp4
+
+
+========================= bitrate 1000 =========================
+Processing video with bitrate: 1000kbps
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bedroom/bedroom_path2_seg3_3/refOutput_bedroom_path2_seg3_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bedroom/bedroom_path2_seg3_3/1000/1000_100_1080.mp4
+
+cvvdp=7.8326 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bedroom/bedroom_path2_seg3_3/refOutput_bedroom_path2_seg3_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bedroom/bedroom_path2_seg3_3/1000/1000_100_360.mp4
+
+cvvdp=7.0288 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bedroom/bedroom_path2_seg3_3/refOutput_bedroom_path2_seg3_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bedroom/bedroom_path2_seg3_3/1000/1000_100_480.mp4
+
+cvvdp=7.3062 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bedroom/bedroom_path2_seg3_3/refOutput_bedroom_path2_seg3_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bedroom/bedroom_path2_seg3_3/1000/1000_100_720.mp4
+
+cvvdp=7.5806 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bedroom/bedroom_path2_seg3_3/refOutput_bedroom_path2_seg3_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bedroom/bedroom_path2_seg3_3/1000/1000_100_864.mp4
+
+cvvdp=7.6682 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bedroom/bedroom_path2_seg3_3/refOutput_bedroom_path2_seg3_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bedroom/bedroom_path2_seg3_3/1000/1000_110_1080.mp4
+
+cvvdp=7.9589 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bedroom/bedroom_path2_seg3_3/refOutput_bedroom_path2_seg3_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bedroom/bedroom_path2_seg3_3/1000/1000_110_360.mp4
+
+cvvdp=7.0927 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bedroom/bedroom_path2_seg3_3/refOutput_bedroom_path2_seg3_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bedroom/bedroom_path2_seg3_3/1000/1000_110_480.mp4
+
+cvvdp=7.3752 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bedroom/bedroom_path2_seg3_3/refOutput_bedroom_path2_seg3_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bedroom/bedroom_path2_seg3_3/1000/1000_110_720.mp4
+
+cvvdp=7.6713 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bedroom/bedroom_path2_seg3_3/refOutput_bedroom_path2_seg3_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bedroom/bedroom_path2_seg3_3/1000/1000_110_864.mp4
+
+cvvdp=7.7628 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bedroom/bedroom_path2_seg3_3/refOutput_bedroom_path2_seg3_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bedroom/bedroom_path2_seg3_3/1000/1000_120_1080.mp4
+
+cvvdp=8.0494 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bedroom/bedroom_path2_seg3_3/refOutput_bedroom_path2_seg3_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bedroom/bedroom_path2_seg3_3/1000/1000_120_360.mp4
+
+cvvdp=7.1304 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bedroom/bedroom_path2_seg3_3/refOutput_bedroom_path2_seg3_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bedroom/bedroom_path2_seg3_3/1000/1000_120_480.mp4
+
+cvvdp=7.4321 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bedroom/bedroom_path2_seg3_3/refOutput_bedroom_path2_seg3_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bedroom/bedroom_path2_seg3_3/1000/1000_120_720.mp4
+
+cvvdp=7.7346 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bedroom/bedroom_path2_seg3_3/refOutput_bedroom_path2_seg3_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bedroom/bedroom_path2_seg3_3/1000/1000_120_864.mp4
+
+cvvdp=7.8526 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bedroom/bedroom_path2_seg3_3/refOutput_bedroom_path2_seg3_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bedroom/bedroom_path2_seg3_3/1000/1000_30_1080.mp4
+
+cvvdp=6.2911 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bedroom/bedroom_path2_seg3_3/refOutput_bedroom_path2_seg3_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bedroom/bedroom_path2_seg3_3/1000/1000_30_360.mp4
+
+cvvdp=5.9611 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bedroom/bedroom_path2_seg3_3/refOutput_bedroom_path2_seg3_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bedroom/bedroom_path2_seg3_3/1000/1000_30_480.mp4
+
+cvvdp=6.0884 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bedroom/bedroom_path2_seg3_3/refOutput_bedroom_path2_seg3_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bedroom/bedroom_path2_seg3_3/1000/1000_30_720.mp4
+
+cvvdp=6.2039 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bedroom/bedroom_path2_seg3_3/refOutput_bedroom_path2_seg3_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bedroom/bedroom_path2_seg3_3/1000/1000_30_864.mp4
+
+cvvdp=6.2389 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bedroom/bedroom_path2_seg3_3/refOutput_bedroom_path2_seg3_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bedroom/bedroom_path2_seg3_3/1000/1000_40_1080.mp4
+
+cvvdp=6.6408 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bedroom/bedroom_path2_seg3_3/refOutput_bedroom_path2_seg3_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bedroom/bedroom_path2_seg3_3/1000/1000_40_360.mp4
+
+cvvdp=6.2485 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bedroom/bedroom_path2_seg3_3/refOutput_bedroom_path2_seg3_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bedroom/bedroom_path2_seg3_3/1000/1000_40_480.mp4
+
+cvvdp=6.4021 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bedroom/bedroom_path2_seg3_3/refOutput_bedroom_path2_seg3_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bedroom/bedroom_path2_seg3_3/1000/1000_40_720.mp4
+
+cvvdp=6.5328 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bedroom/bedroom_path2_seg3_3/refOutput_bedroom_path2_seg3_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bedroom/bedroom_path2_seg3_3/1000/1000_40_864.mp4
+
+cvvdp=6.5821 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bedroom/bedroom_path2_seg3_3/refOutput_bedroom_path2_seg3_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bedroom/bedroom_path2_seg3_3/1000/1000_50_1080.mp4
+
+cvvdp=6.9121 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bedroom/bedroom_path2_seg3_3/refOutput_bedroom_path2_seg3_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bedroom/bedroom_path2_seg3_3/1000/1000_50_360.mp4
+
+cvvdp=6.4552 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bedroom/bedroom_path2_seg3_3/refOutput_bedroom_path2_seg3_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bedroom/bedroom_path2_seg3_3/1000/1000_50_480.mp4
+
+cvvdp=6.6355 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bedroom/bedroom_path2_seg3_3/refOutput_bedroom_path2_seg3_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bedroom/bedroom_path2_seg3_3/1000/1000_50_720.mp4
+
+cvvdp=6.7928 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bedroom/bedroom_path2_seg3_3/refOutput_bedroom_path2_seg3_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bedroom/bedroom_path2_seg3_3/1000/1000_50_864.mp4
+
+cvvdp=6.8444 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bedroom/bedroom_path2_seg3_3/refOutput_bedroom_path2_seg3_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bedroom/bedroom_path2_seg3_3/1000/1000_60_1080.mp4
+
+cvvdp=7.1684 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bedroom/bedroom_path2_seg3_3/refOutput_bedroom_path2_seg3_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bedroom/bedroom_path2_seg3_3/1000/1000_60_360.mp4
+
+cvvdp=6.6314 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bedroom/bedroom_path2_seg3_3/refOutput_bedroom_path2_seg3_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bedroom/bedroom_path2_seg3_3/1000/1000_60_480.mp4
+
+cvvdp=6.8317 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bedroom/bedroom_path2_seg3_3/refOutput_bedroom_path2_seg3_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bedroom/bedroom_path2_seg3_3/1000/1000_60_720.mp4
+
+cvvdp=7.0159 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bedroom/bedroom_path2_seg3_3/refOutput_bedroom_path2_seg3_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bedroom/bedroom_path2_seg3_3/1000/1000_60_864.mp4
+
+cvvdp=7.0848 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bedroom/bedroom_path2_seg3_3/refOutput_bedroom_path2_seg3_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bedroom/bedroom_path2_seg3_3/1000/1000_70_1080.mp4
+
+cvvdp=7.3520 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bedroom/bedroom_path2_seg3_3/refOutput_bedroom_path2_seg3_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bedroom/bedroom_path2_seg3_3/1000/1000_70_360.mp4
+
+cvvdp=6.7671 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bedroom/bedroom_path2_seg3_3/refOutput_bedroom_path2_seg3_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bedroom/bedroom_path2_seg3_3/1000/1000_70_480.mp4
+
+cvvdp=6.9885 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bedroom/bedroom_path2_seg3_3/refOutput_bedroom_path2_seg3_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bedroom/bedroom_path2_seg3_3/1000/1000_70_720.mp4
+
+cvvdp=7.1956 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bedroom/bedroom_path2_seg3_3/refOutput_bedroom_path2_seg3_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bedroom/bedroom_path2_seg3_3/1000/1000_70_864.mp4
+
+cvvdp=7.2698 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bedroom/bedroom_path2_seg3_3/refOutput_bedroom_path2_seg3_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bedroom/bedroom_path2_seg3_3/1000/1000_80_1080.mp4
+
+cvvdp=7.5424 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bedroom/bedroom_path2_seg3_3/refOutput_bedroom_path2_seg3_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bedroom/bedroom_path2_seg3_3/1000/1000_80_360.mp4
+
+cvvdp=6.8807 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bedroom/bedroom_path2_seg3_3/refOutput_bedroom_path2_seg3_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bedroom/bedroom_path2_seg3_3/1000/1000_80_480.mp4
+
+cvvdp=7.1191 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bedroom/bedroom_path2_seg3_3/refOutput_bedroom_path2_seg3_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bedroom/bedroom_path2_seg3_3/1000/1000_80_720.mp4
+
+cvvdp=7.3649 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bedroom/bedroom_path2_seg3_3/refOutput_bedroom_path2_seg3_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bedroom/bedroom_path2_seg3_3/1000/1000_80_864.mp4
+
+cvvdp=7.4432 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bedroom/bedroom_path2_seg3_3/refOutput_bedroom_path2_seg3_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bedroom/bedroom_path2_seg3_3/1000/1000_90_1080.mp4
+
+cvvdp=7.7033 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bedroom/bedroom_path2_seg3_3/refOutput_bedroom_path2_seg3_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bedroom/bedroom_path2_seg3_3/1000/1000_90_360.mp4
+
+cvvdp=6.9619 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bedroom/bedroom_path2_seg3_3/refOutput_bedroom_path2_seg3_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bedroom/bedroom_path2_seg3_3/1000/1000_90_480.mp4
+
+cvvdp=7.2130 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bedroom/bedroom_path2_seg3_3/refOutput_bedroom_path2_seg3_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bedroom/bedroom_path2_seg3_3/1000/1000_90_720.mp4
+
+cvvdp=7.4932 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bedroom/bedroom_path2_seg3_3/refOutput_bedroom_path2_seg3_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bedroom/bedroom_path2_seg3_3/1000/1000_90_864.mp4
+
+cvvdp=7.5918 [JOD]
+
+
+
+========================= bitrate 1500 =========================
+Processing video with bitrate: 1500kbps
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bedroom/bedroom_path2_seg3_3/refOutput_bedroom_path2_seg3_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bedroom/bedroom_path2_seg3_3/1500/1500_100_1080.mp4
+
+cvvdp=7.8455 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bedroom/bedroom_path2_seg3_3/refOutput_bedroom_path2_seg3_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bedroom/bedroom_path2_seg3_3/1500/1500_100_360.mp4
+
+cvvdp=7.0561 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bedroom/bedroom_path2_seg3_3/refOutput_bedroom_path2_seg3_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bedroom/bedroom_path2_seg3_3/1500/1500_100_480.mp4
+
+cvvdp=7.3387 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bedroom/bedroom_path2_seg3_3/refOutput_bedroom_path2_seg3_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bedroom/bedroom_path2_seg3_3/1500/1500_100_720.mp4
+
+cvvdp=7.6274 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bedroom/bedroom_path2_seg3_3/refOutput_bedroom_path2_seg3_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bedroom/bedroom_path2_seg3_3/1500/1500_100_864.mp4
+
+cvvdp=7.7191 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bedroom/bedroom_path2_seg3_3/refOutput_bedroom_path2_seg3_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bedroom/bedroom_path2_seg3_3/1500/1500_110_1080.mp4
+
+cvvdp=7.9612 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bedroom/bedroom_path2_seg3_3/refOutput_bedroom_path2_seg3_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bedroom/bedroom_path2_seg3_3/1500/1500_110_360.mp4
+
+cvvdp=7.1225 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bedroom/bedroom_path2_seg3_3/refOutput_bedroom_path2_seg3_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bedroom/bedroom_path2_seg3_3/1500/1500_110_480.mp4
+
+cvvdp=7.4110 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bedroom/bedroom_path2_seg3_3/refOutput_bedroom_path2_seg3_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bedroom/bedroom_path2_seg3_3/1500/1500_110_720.mp4
+
+cvvdp=7.7137 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bedroom/bedroom_path2_seg3_3/refOutput_bedroom_path2_seg3_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bedroom/bedroom_path2_seg3_3/1500/1500_110_864.mp4
+
+cvvdp=7.8271 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bedroom/bedroom_path2_seg3_3/refOutput_bedroom_path2_seg3_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bedroom/bedroom_path2_seg3_3/1500/1500_120_1080.mp4
+
+cvvdp=8.0549 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bedroom/bedroom_path2_seg3_3/refOutput_bedroom_path2_seg3_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bedroom/bedroom_path2_seg3_3/1500/1500_120_360.mp4
+
+cvvdp=7.1703 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bedroom/bedroom_path2_seg3_3/refOutput_bedroom_path2_seg3_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bedroom/bedroom_path2_seg3_3/1500/1500_120_480.mp4
+
+cvvdp=7.4632 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bedroom/bedroom_path2_seg3_3/refOutput_bedroom_path2_seg3_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bedroom/bedroom_path2_seg3_3/1500/1500_120_720.mp4
+
+cvvdp=7.7887 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bedroom/bedroom_path2_seg3_3/refOutput_bedroom_path2_seg3_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bedroom/bedroom_path2_seg3_3/1500/1500_120_864.mp4
+
+cvvdp=7.9026 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bedroom/bedroom_path2_seg3_3/refOutput_bedroom_path2_seg3_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bedroom/bedroom_path2_seg3_3/1500/1500_30_1080.mp4
+
+cvvdp=6.2957 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bedroom/bedroom_path2_seg3_3/refOutput_bedroom_path2_seg3_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bedroom/bedroom_path2_seg3_3/1500/1500_30_360.mp4
+
+cvvdp=5.9631 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bedroom/bedroom_path2_seg3_3/refOutput_bedroom_path2_seg3_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bedroom/bedroom_path2_seg3_3/1500/1500_30_480.mp4
+
+cvvdp=6.0905 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bedroom/bedroom_path2_seg3_3/refOutput_bedroom_path2_seg3_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bedroom/bedroom_path2_seg3_3/1500/1500_30_720.mp4
+
+cvvdp=6.2070 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bedroom/bedroom_path2_seg3_3/refOutput_bedroom_path2_seg3_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bedroom/bedroom_path2_seg3_3/1500/1500_30_864.mp4
+
+cvvdp=6.2462 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bedroom/bedroom_path2_seg3_3/refOutput_bedroom_path2_seg3_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bedroom/bedroom_path2_seg3_3/1500/1500_40_1080.mp4
+
+cvvdp=6.6448 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bedroom/bedroom_path2_seg3_3/refOutput_bedroom_path2_seg3_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bedroom/bedroom_path2_seg3_3/1500/1500_40_360.mp4
+
+cvvdp=6.2509 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bedroom/bedroom_path2_seg3_3/refOutput_bedroom_path2_seg3_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bedroom/bedroom_path2_seg3_3/1500/1500_40_480.mp4
+
+cvvdp=6.4066 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bedroom/bedroom_path2_seg3_3/refOutput_bedroom_path2_seg3_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bedroom/bedroom_path2_seg3_3/1500/1500_40_720.mp4
+
+cvvdp=6.5456 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bedroom/bedroom_path2_seg3_3/refOutput_bedroom_path2_seg3_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bedroom/bedroom_path2_seg3_3/1500/1500_40_864.mp4
+
+cvvdp=6.5889 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bedroom/bedroom_path2_seg3_3/refOutput_bedroom_path2_seg3_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bedroom/bedroom_path2_seg3_3/1500/1500_50_1080.mp4
+
+cvvdp=6.9263 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bedroom/bedroom_path2_seg3_3/refOutput_bedroom_path2_seg3_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bedroom/bedroom_path2_seg3_3/1500/1500_50_360.mp4
+
+cvvdp=6.4628 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bedroom/bedroom_path2_seg3_3/refOutput_bedroom_path2_seg3_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bedroom/bedroom_path2_seg3_3/1500/1500_50_480.mp4
+
+cvvdp=6.6430 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bedroom/bedroom_path2_seg3_3/refOutput_bedroom_path2_seg3_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bedroom/bedroom_path2_seg3_3/1500/1500_50_720.mp4
+
+cvvdp=6.8067 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bedroom/bedroom_path2_seg3_3/refOutput_bedroom_path2_seg3_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bedroom/bedroom_path2_seg3_3/1500/1500_50_864.mp4
+
+cvvdp=6.8607 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bedroom/bedroom_path2_seg3_3/refOutput_bedroom_path2_seg3_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bedroom/bedroom_path2_seg3_3/1500/1500_60_1080.mp4
+
+cvvdp=7.1823 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bedroom/bedroom_path2_seg3_3/refOutput_bedroom_path2_seg3_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bedroom/bedroom_path2_seg3_3/1500/1500_60_360.mp4
+
+cvvdp=6.6430 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bedroom/bedroom_path2_seg3_3/refOutput_bedroom_path2_seg3_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bedroom/bedroom_path2_seg3_3/1500/1500_60_480.mp4
+
+cvvdp=6.8483 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bedroom/bedroom_path2_seg3_3/refOutput_bedroom_path2_seg3_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bedroom/bedroom_path2_seg3_3/1500/1500_60_720.mp4
+
+cvvdp=7.0333 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bedroom/bedroom_path2_seg3_3/refOutput_bedroom_path2_seg3_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bedroom/bedroom_path2_seg3_3/1500/1500_60_864.mp4
+
+cvvdp=7.1002 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bedroom/bedroom_path2_seg3_3/refOutput_bedroom_path2_seg3_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bedroom/bedroom_path2_seg3_3/1500/1500_70_1080.mp4
+
+cvvdp=7.3864 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bedroom/bedroom_path2_seg3_3/refOutput_bedroom_path2_seg3_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bedroom/bedroom_path2_seg3_3/1500/1500_70_360.mp4
+
+cvvdp=6.7788 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bedroom/bedroom_path2_seg3_3/refOutput_bedroom_path2_seg3_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bedroom/bedroom_path2_seg3_3/1500/1500_70_480.mp4
+
+cvvdp=7.0056 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bedroom/bedroom_path2_seg3_3/refOutput_bedroom_path2_seg3_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bedroom/bedroom_path2_seg3_3/1500/1500_70_720.mp4
+
+cvvdp=7.2202 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bedroom/bedroom_path2_seg3_3/refOutput_bedroom_path2_seg3_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bedroom/bedroom_path2_seg3_3/1500/1500_70_864.mp4
+
+cvvdp=7.3025 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bedroom/bedroom_path2_seg3_3/refOutput_bedroom_path2_seg3_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bedroom/bedroom_path2_seg3_3/1500/1500_80_1080.mp4
+
+cvvdp=7.5836 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bedroom/bedroom_path2_seg3_3/refOutput_bedroom_path2_seg3_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bedroom/bedroom_path2_seg3_3/1500/1500_80_360.mp4
+
+cvvdp=6.8949 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bedroom/bedroom_path2_seg3_3/refOutput_bedroom_path2_seg3_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bedroom/bedroom_path2_seg3_3/1500/1500_80_480.mp4
+
+cvvdp=7.1472 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bedroom/bedroom_path2_seg3_3/refOutput_bedroom_path2_seg3_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bedroom/bedroom_path2_seg3_3/1500/1500_80_720.mp4
+
+cvvdp=7.3931 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bedroom/bedroom_path2_seg3_3/refOutput_bedroom_path2_seg3_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bedroom/bedroom_path2_seg3_3/1500/1500_80_864.mp4
+
+cvvdp=7.4687 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bedroom/bedroom_path2_seg3_3/refOutput_bedroom_path2_seg3_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bedroom/bedroom_path2_seg3_3/1500/1500_90_1080.mp4
+
+cvvdp=7.7485 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bedroom/bedroom_path2_seg3_3/refOutput_bedroom_path2_seg3_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bedroom/bedroom_path2_seg3_3/1500/1500_90_360.mp4
+
+cvvdp=6.9867 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bedroom/bedroom_path2_seg3_3/refOutput_bedroom_path2_seg3_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bedroom/bedroom_path2_seg3_3/1500/1500_90_480.mp4
+
+cvvdp=7.2536 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bedroom/bedroom_path2_seg3_3/refOutput_bedroom_path2_seg3_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bedroom/bedroom_path2_seg3_3/1500/1500_90_720.mp4
+
+cvvdp=7.5144 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bedroom/bedroom_path2_seg3_3/refOutput_bedroom_path2_seg3_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bedroom/bedroom_path2_seg3_3/1500/1500_90_864.mp4
+
+cvvdp=7.6157 [JOD]
+
+
+
+========================= bitrate 2000 =========================
+Processing video with bitrate: 2000kbps
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bedroom/bedroom_path2_seg3_3/refOutput_bedroom_path2_seg3_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bedroom/bedroom_path2_seg3_3/2000/2000_100_1080.mp4
+
+cvvdp=7.8829 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bedroom/bedroom_path2_seg3_3/refOutput_bedroom_path2_seg3_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bedroom/bedroom_path2_seg3_3/2000/2000_100_360.mp4
+
+cvvdp=7.0693 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bedroom/bedroom_path2_seg3_3/refOutput_bedroom_path2_seg3_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bedroom/bedroom_path2_seg3_3/2000/2000_100_480.mp4
+
+cvvdp=7.3558 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bedroom/bedroom_path2_seg3_3/refOutput_bedroom_path2_seg3_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bedroom/bedroom_path2_seg3_3/2000/2000_100_720.mp4
+
+cvvdp=7.6420 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bedroom/bedroom_path2_seg3_3/refOutput_bedroom_path2_seg3_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bedroom/bedroom_path2_seg3_3/2000/2000_100_864.mp4
+
+cvvdp=7.7396 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bedroom/bedroom_path2_seg3_3/refOutput_bedroom_path2_seg3_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bedroom/bedroom_path2_seg3_3/2000/2000_110_1080.mp4
+
+cvvdp=8.0092 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bedroom/bedroom_path2_seg3_3/refOutput_bedroom_path2_seg3_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bedroom/bedroom_path2_seg3_3/2000/2000_110_360.mp4
+
+cvvdp=7.1328 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bedroom/bedroom_path2_seg3_3/refOutput_bedroom_path2_seg3_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bedroom/bedroom_path2_seg3_3/2000/2000_110_480.mp4
+
+cvvdp=7.4302 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bedroom/bedroom_path2_seg3_3/refOutput_bedroom_path2_seg3_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bedroom/bedroom_path2_seg3_3/2000/2000_110_720.mp4
+
+cvvdp=7.7272 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bedroom/bedroom_path2_seg3_3/refOutput_bedroom_path2_seg3_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bedroom/bedroom_path2_seg3_3/2000/2000_110_864.mp4
+
+cvvdp=7.8452 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bedroom/bedroom_path2_seg3_3/refOutput_bedroom_path2_seg3_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bedroom/bedroom_path2_seg3_3/2000/2000_120_1080.mp4
+
+cvvdp=8.1018 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bedroom/bedroom_path2_seg3_3/refOutput_bedroom_path2_seg3_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bedroom/bedroom_path2_seg3_3/2000/2000_120_360.mp4
+
+cvvdp=7.1802 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bedroom/bedroom_path2_seg3_3/refOutput_bedroom_path2_seg3_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bedroom/bedroom_path2_seg3_3/2000/2000_120_480.mp4
+
+cvvdp=7.4849 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bedroom/bedroom_path2_seg3_3/refOutput_bedroom_path2_seg3_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bedroom/bedroom_path2_seg3_3/2000/2000_120_720.mp4
+
+cvvdp=7.8001 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bedroom/bedroom_path2_seg3_3/refOutput_bedroom_path2_seg3_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bedroom/bedroom_path2_seg3_3/2000/2000_120_864.mp4
+
+cvvdp=7.9255 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bedroom/bedroom_path2_seg3_3/refOutput_bedroom_path2_seg3_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bedroom/bedroom_path2_seg3_3/2000/2000_30_1080.mp4
+
+cvvdp=6.2988 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bedroom/bedroom_path2_seg3_3/refOutput_bedroom_path2_seg3_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bedroom/bedroom_path2_seg3_3/2000/2000_30_360.mp4
+
+cvvdp=5.9633 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bedroom/bedroom_path2_seg3_3/refOutput_bedroom_path2_seg3_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bedroom/bedroom_path2_seg3_3/2000/2000_30_480.mp4
+
+cvvdp=6.0925 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bedroom/bedroom_path2_seg3_3/refOutput_bedroom_path2_seg3_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bedroom/bedroom_path2_seg3_3/2000/2000_30_720.mp4
+
+cvvdp=6.2096 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bedroom/bedroom_path2_seg3_3/refOutput_bedroom_path2_seg3_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bedroom/bedroom_path2_seg3_3/2000/2000_30_864.mp4
+
+cvvdp=6.2483 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bedroom/bedroom_path2_seg3_3/refOutput_bedroom_path2_seg3_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bedroom/bedroom_path2_seg3_3/2000/2000_40_1080.mp4
+
+cvvdp=6.6526 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bedroom/bedroom_path2_seg3_3/refOutput_bedroom_path2_seg3_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bedroom/bedroom_path2_seg3_3/2000/2000_40_360.mp4
+
+cvvdp=6.2533 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bedroom/bedroom_path2_seg3_3/refOutput_bedroom_path2_seg3_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bedroom/bedroom_path2_seg3_3/2000/2000_40_480.mp4
+
+cvvdp=6.4082 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bedroom/bedroom_path2_seg3_3/refOutput_bedroom_path2_seg3_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bedroom/bedroom_path2_seg3_3/2000/2000_40_720.mp4
+
+cvvdp=6.5478 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bedroom/bedroom_path2_seg3_3/refOutput_bedroom_path2_seg3_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bedroom/bedroom_path2_seg3_3/2000/2000_40_864.mp4
+
+cvvdp=6.5937 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bedroom/bedroom_path2_seg3_3/refOutput_bedroom_path2_seg3_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bedroom/bedroom_path2_seg3_3/2000/2000_50_1080.mp4
+
+cvvdp=6.9312 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bedroom/bedroom_path2_seg3_3/refOutput_bedroom_path2_seg3_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bedroom/bedroom_path2_seg3_3/2000/2000_50_360.mp4
+
+cvvdp=6.4643 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bedroom/bedroom_path2_seg3_3/refOutput_bedroom_path2_seg3_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bedroom/bedroom_path2_seg3_3/2000/2000_50_480.mp4
+
+cvvdp=6.6476 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bedroom/bedroom_path2_seg3_3/refOutput_bedroom_path2_seg3_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bedroom/bedroom_path2_seg3_3/2000/2000_50_720.mp4
+
+cvvdp=6.8120 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bedroom/bedroom_path2_seg3_3/refOutput_bedroom_path2_seg3_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bedroom/bedroom_path2_seg3_3/2000/2000_50_864.mp4
+
+cvvdp=6.8648 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bedroom/bedroom_path2_seg3_3/refOutput_bedroom_path2_seg3_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bedroom/bedroom_path2_seg3_3/2000/2000_60_1080.mp4
+
+cvvdp=7.1880 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bedroom/bedroom_path2_seg3_3/refOutput_bedroom_path2_seg3_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bedroom/bedroom_path2_seg3_3/2000/2000_60_360.mp4
+
+cvvdp=6.6458 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bedroom/bedroom_path2_seg3_3/refOutput_bedroom_path2_seg3_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bedroom/bedroom_path2_seg3_3/2000/2000_60_480.mp4
+
+cvvdp=6.8534 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bedroom/bedroom_path2_seg3_3/refOutput_bedroom_path2_seg3_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bedroom/bedroom_path2_seg3_3/2000/2000_60_720.mp4
+
+cvvdp=7.0455 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bedroom/bedroom_path2_seg3_3/refOutput_bedroom_path2_seg3_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bedroom/bedroom_path2_seg3_3/2000/2000_60_864.mp4
+
+cvvdp=7.1075 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bedroom/bedroom_path2_seg3_3/refOutput_bedroom_path2_seg3_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bedroom/bedroom_path2_seg3_3/2000/2000_70_1080.mp4
+
+cvvdp=7.3996 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bedroom/bedroom_path2_seg3_3/refOutput_bedroom_path2_seg3_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bedroom/bedroom_path2_seg3_3/2000/2000_70_360.mp4
+
+cvvdp=6.7862 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bedroom/bedroom_path2_seg3_3/refOutput_bedroom_path2_seg3_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bedroom/bedroom_path2_seg3_3/2000/2000_70_480.mp4
+
+cvvdp=7.0159 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bedroom/bedroom_path2_seg3_3/refOutput_bedroom_path2_seg3_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bedroom/bedroom_path2_seg3_3/2000/2000_70_720.mp4
+
+cvvdp=7.2300 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bedroom/bedroom_path2_seg3_3/refOutput_bedroom_path2_seg3_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bedroom/bedroom_path2_seg3_3/2000/2000_70_864.mp4
+
+cvvdp=7.3060 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bedroom/bedroom_path2_seg3_3/refOutput_bedroom_path2_seg3_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bedroom/bedroom_path2_seg3_3/2000/2000_80_1080.mp4
+
+cvvdp=7.5950 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bedroom/bedroom_path2_seg3_3/refOutput_bedroom_path2_seg3_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bedroom/bedroom_path2_seg3_3/2000/2000_80_360.mp4
+
+cvvdp=6.9049 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bedroom/bedroom_path2_seg3_3/refOutput_bedroom_path2_seg3_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bedroom/bedroom_path2_seg3_3/2000/2000_80_480.mp4
+
+cvvdp=7.1566 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bedroom/bedroom_path2_seg3_3/refOutput_bedroom_path2_seg3_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bedroom/bedroom_path2_seg3_3/2000/2000_80_720.mp4
+
+cvvdp=7.3973 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bedroom/bedroom_path2_seg3_3/refOutput_bedroom_path2_seg3_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bedroom/bedroom_path2_seg3_3/2000/2000_80_864.mp4
+
+cvvdp=7.4867 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bedroom/bedroom_path2_seg3_3/refOutput_bedroom_path2_seg3_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bedroom/bedroom_path2_seg3_3/2000/2000_90_1080.mp4
+
+cvvdp=7.7468 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bedroom/bedroom_path2_seg3_3/refOutput_bedroom_path2_seg3_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bedroom/bedroom_path2_seg3_3/2000/2000_90_360.mp4
+
+cvvdp=6.9985 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bedroom/bedroom_path2_seg3_3/refOutput_bedroom_path2_seg3_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bedroom/bedroom_path2_seg3_3/2000/2000_90_480.mp4
+
+cvvdp=7.2637 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bedroom/bedroom_path2_seg3_3/refOutput_bedroom_path2_seg3_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bedroom/bedroom_path2_seg3_3/2000/2000_90_720.mp4
+
+cvvdp=7.5332 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bedroom/bedroom_path2_seg3_3/refOutput_bedroom_path2_seg3_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bedroom/bedroom_path2_seg3_3/2000/2000_90_864.mp4
+
+cvvdp=7.6335 [JOD]
+
+
+
+========================= bitrate 3000 =========================
+Processing video with bitrate: 3000kbps
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bedroom/bedroom_path2_seg3_3/refOutput_bedroom_path2_seg3_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bedroom/bedroom_path2_seg3_3/3000/3000_100_1080.mp4
+
+cvvdp=7.8990 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bedroom/bedroom_path2_seg3_3/refOutput_bedroom_path2_seg3_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bedroom/bedroom_path2_seg3_3/3000/3000_100_360.mp4
+
+cvvdp=7.0801 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bedroom/bedroom_path2_seg3_3/refOutput_bedroom_path2_seg3_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bedroom/bedroom_path2_seg3_3/3000/3000_100_480.mp4
+
+cvvdp=7.3683 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bedroom/bedroom_path2_seg3_3/refOutput_bedroom_path2_seg3_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bedroom/bedroom_path2_seg3_3/3000/3000_100_720.mp4
+
+cvvdp=7.6604 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bedroom/bedroom_path2_seg3_3/refOutput_bedroom_path2_seg3_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bedroom/bedroom_path2_seg3_3/3000/3000_100_864.mp4
+
+cvvdp=7.7630 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bedroom/bedroom_path2_seg3_3/refOutput_bedroom_path2_seg3_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bedroom/bedroom_path2_seg3_3/3000/3000_110_1080.mp4
+
+cvvdp=8.0288 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bedroom/bedroom_path2_seg3_3/refOutput_bedroom_path2_seg3_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bedroom/bedroom_path2_seg3_3/3000/3000_110_360.mp4
+
+cvvdp=7.1466 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bedroom/bedroom_path2_seg3_3/refOutput_bedroom_path2_seg3_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bedroom/bedroom_path2_seg3_3/3000/3000_110_480.mp4
+
+cvvdp=7.4470 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bedroom/bedroom_path2_seg3_3/refOutput_bedroom_path2_seg3_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bedroom/bedroom_path2_seg3_3/3000/3000_110_720.mp4
+
+cvvdp=7.7536 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bedroom/bedroom_path2_seg3_3/refOutput_bedroom_path2_seg3_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bedroom/bedroom_path2_seg3_3/3000/3000_110_864.mp4
+
+cvvdp=7.8691 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bedroom/bedroom_path2_seg3_3/refOutput_bedroom_path2_seg3_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bedroom/bedroom_path2_seg3_3/3000/3000_120_1080.mp4
+
+cvvdp=8.1203 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bedroom/bedroom_path2_seg3_3/refOutput_bedroom_path2_seg3_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bedroom/bedroom_path2_seg3_3/3000/3000_120_360.mp4
+
+cvvdp=7.1955 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bedroom/bedroom_path2_seg3_3/refOutput_bedroom_path2_seg3_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bedroom/bedroom_path2_seg3_3/3000/3000_120_480.mp4
+
+cvvdp=7.5034 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bedroom/bedroom_path2_seg3_3/refOutput_bedroom_path2_seg3_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bedroom/bedroom_path2_seg3_3/3000/3000_120_720.mp4
+
+cvvdp=7.8244 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bedroom/bedroom_path2_seg3_3/refOutput_bedroom_path2_seg3_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bedroom/bedroom_path2_seg3_3/3000/3000_120_864.mp4
+
+cvvdp=7.9485 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bedroom/bedroom_path2_seg3_3/refOutput_bedroom_path2_seg3_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bedroom/bedroom_path2_seg3_3/3000/3000_30_1080.mp4
+
+cvvdp=6.2996 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bedroom/bedroom_path2_seg3_3/refOutput_bedroom_path2_seg3_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bedroom/bedroom_path2_seg3_3/3000/3000_30_360.mp4
+
+cvvdp=5.9626 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bedroom/bedroom_path2_seg3_3/refOutput_bedroom_path2_seg3_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bedroom/bedroom_path2_seg3_3/3000/3000_30_480.mp4
+
+cvvdp=6.0930 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bedroom/bedroom_path2_seg3_3/refOutput_bedroom_path2_seg3_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bedroom/bedroom_path2_seg3_3/3000/3000_30_720.mp4
+
+cvvdp=6.2112 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bedroom/bedroom_path2_seg3_3/refOutput_bedroom_path2_seg3_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bedroom/bedroom_path2_seg3_3/3000/3000_30_864.mp4
+
+cvvdp=6.2490 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bedroom/bedroom_path2_seg3_3/refOutput_bedroom_path2_seg3_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bedroom/bedroom_path2_seg3_3/3000/3000_40_1080.mp4
+
+cvvdp=6.6554 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bedroom/bedroom_path2_seg3_3/refOutput_bedroom_path2_seg3_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bedroom/bedroom_path2_seg3_3/3000/3000_40_360.mp4
+
+cvvdp=6.2538 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bedroom/bedroom_path2_seg3_3/refOutput_bedroom_path2_seg3_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bedroom/bedroom_path2_seg3_3/3000/3000_40_480.mp4
+
+cvvdp=6.4104 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bedroom/bedroom_path2_seg3_3/refOutput_bedroom_path2_seg3_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bedroom/bedroom_path2_seg3_3/3000/3000_40_720.mp4
+
+cvvdp=6.5510 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bedroom/bedroom_path2_seg3_3/refOutput_bedroom_path2_seg3_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bedroom/bedroom_path2_seg3_3/3000/3000_40_864.mp4
+
+cvvdp=6.5960 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bedroom/bedroom_path2_seg3_3/refOutput_bedroom_path2_seg3_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bedroom/bedroom_path2_seg3_3/3000/3000_50_1080.mp4
+
+cvvdp=6.9401 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bedroom/bedroom_path2_seg3_3/refOutput_bedroom_path2_seg3_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bedroom/bedroom_path2_seg3_3/3000/3000_50_360.mp4
+
+cvvdp=6.4676 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bedroom/bedroom_path2_seg3_3/refOutput_bedroom_path2_seg3_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bedroom/bedroom_path2_seg3_3/3000/3000_50_480.mp4
+
+cvvdp=6.6509 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bedroom/bedroom_path2_seg3_3/refOutput_bedroom_path2_seg3_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bedroom/bedroom_path2_seg3_3/3000/3000_50_720.mp4
+
+cvvdp=6.8186 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bedroom/bedroom_path2_seg3_3/refOutput_bedroom_path2_seg3_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bedroom/bedroom_path2_seg3_3/3000/3000_50_864.mp4
+
+cvvdp=6.8712 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bedroom/bedroom_path2_seg3_3/refOutput_bedroom_path2_seg3_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bedroom/bedroom_path2_seg3_3/3000/3000_60_1080.mp4
+
+cvvdp=7.1963 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bedroom/bedroom_path2_seg3_3/refOutput_bedroom_path2_seg3_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bedroom/bedroom_path2_seg3_3/3000/3000_60_360.mp4
+
+cvvdp=6.6500 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bedroom/bedroom_path2_seg3_3/refOutput_bedroom_path2_seg3_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bedroom/bedroom_path2_seg3_3/3000/3000_60_480.mp4
+
+cvvdp=6.8586 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bedroom/bedroom_path2_seg3_3/refOutput_bedroom_path2_seg3_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bedroom/bedroom_path2_seg3_3/3000/3000_60_720.mp4
+
+cvvdp=7.0518 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bedroom/bedroom_path2_seg3_3/refOutput_bedroom_path2_seg3_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bedroom/bedroom_path2_seg3_3/3000/3000_60_864.mp4
+
+cvvdp=7.1160 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bedroom/bedroom_path2_seg3_3/refOutput_bedroom_path2_seg3_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bedroom/bedroom_path2_seg3_3/3000/3000_70_1080.mp4
+
+cvvdp=7.4121 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bedroom/bedroom_path2_seg3_3/refOutput_bedroom_path2_seg3_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bedroom/bedroom_path2_seg3_3/3000/3000_70_360.mp4
+
+cvvdp=6.7904 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bedroom/bedroom_path2_seg3_3/refOutput_bedroom_path2_seg3_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bedroom/bedroom_path2_seg3_3/3000/3000_70_480.mp4
+
+cvvdp=7.0226 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bedroom/bedroom_path2_seg3_3/refOutput_bedroom_path2_seg3_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bedroom/bedroom_path2_seg3_3/3000/3000_70_720.mp4
+
+cvvdp=7.2423 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bedroom/bedroom_path2_seg3_3/refOutput_bedroom_path2_seg3_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bedroom/bedroom_path2_seg3_3/3000/3000_70_864.mp4
+
+cvvdp=7.3167 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bedroom/bedroom_path2_seg3_3/refOutput_bedroom_path2_seg3_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bedroom/bedroom_path2_seg3_3/3000/3000_80_1080.mp4
+
+cvvdp=7.6038 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bedroom/bedroom_path2_seg3_3/refOutput_bedroom_path2_seg3_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bedroom/bedroom_path2_seg3_3/3000/3000_80_360.mp4
+
+cvvdp=6.9095 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bedroom/bedroom_path2_seg3_3/refOutput_bedroom_path2_seg3_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bedroom/bedroom_path2_seg3_3/3000/3000_80_480.mp4
+
+cvvdp=7.1663 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bedroom/bedroom_path2_seg3_3/refOutput_bedroom_path2_seg3_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bedroom/bedroom_path2_seg3_3/3000/3000_80_720.mp4
+
+cvvdp=7.4148 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bedroom/bedroom_path2_seg3_3/refOutput_bedroom_path2_seg3_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bedroom/bedroom_path2_seg3_3/3000/3000_80_864.mp4
+
+cvvdp=7.4989 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bedroom/bedroom_path2_seg3_3/refOutput_bedroom_path2_seg3_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bedroom/bedroom_path2_seg3_3/3000/3000_90_1080.mp4
+
+cvvdp=7.7728 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bedroom/bedroom_path2_seg3_3/refOutput_bedroom_path2_seg3_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bedroom/bedroom_path2_seg3_3/3000/3000_90_360.mp4
+
+cvvdp=7.0045 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bedroom/bedroom_path2_seg3_3/refOutput_bedroom_path2_seg3_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bedroom/bedroom_path2_seg3_3/3000/3000_90_480.mp4
+
+cvvdp=7.2771 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bedroom/bedroom_path2_seg3_3/refOutput_bedroom_path2_seg3_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bedroom/bedroom_path2_seg3_3/3000/3000_90_720.mp4
+
+cvvdp=7.5505 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bedroom/bedroom_path2_seg3_3/refOutput_bedroom_path2_seg3_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bedroom/bedroom_path2_seg3_3/3000/3000_90_864.mp4
+
+cvvdp=7.6453 [JOD]
+
+
+
+========================= bitrate 4000 =========================
+Processing video with bitrate: 4000kbps
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bedroom/bedroom_path2_seg3_3/refOutput_bedroom_path2_seg3_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bedroom/bedroom_path2_seg3_3/4000/4000_100_1080.mp4
+
+cvvdp=7.9117 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bedroom/bedroom_path2_seg3_3/refOutput_bedroom_path2_seg3_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bedroom/bedroom_path2_seg3_3/4000/4000_100_360.mp4
+
+cvvdp=7.0838 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bedroom/bedroom_path2_seg3_3/refOutput_bedroom_path2_seg3_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bedroom/bedroom_path2_seg3_3/4000/4000_100_480.mp4
+
+cvvdp=7.3744 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bedroom/bedroom_path2_seg3_3/refOutput_bedroom_path2_seg3_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bedroom/bedroom_path2_seg3_3/4000/4000_100_720.mp4
+
+cvvdp=7.6681 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bedroom/bedroom_path2_seg3_3/refOutput_bedroom_path2_seg3_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bedroom/bedroom_path2_seg3_3/4000/4000_100_864.mp4
+
+cvvdp=7.7734 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bedroom/bedroom_path2_seg3_3/refOutput_bedroom_path2_seg3_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bedroom/bedroom_path2_seg3_3/4000/4000_110_1080.mp4
+
+cvvdp=8.0334 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bedroom/bedroom_path2_seg3_3/refOutput_bedroom_path2_seg3_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bedroom/bedroom_path2_seg3_3/4000/4000_110_360.mp4
+
+cvvdp=7.1510 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bedroom/bedroom_path2_seg3_3/refOutput_bedroom_path2_seg3_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bedroom/bedroom_path2_seg3_3/4000/4000_110_480.mp4
+
+cvvdp=7.4538 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bedroom/bedroom_path2_seg3_3/refOutput_bedroom_path2_seg3_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bedroom/bedroom_path2_seg3_3/4000/4000_110_720.mp4
+
+cvvdp=7.7673 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bedroom/bedroom_path2_seg3_3/refOutput_bedroom_path2_seg3_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bedroom/bedroom_path2_seg3_3/4000/4000_110_864.mp4
+
+cvvdp=7.8814 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bedroom/bedroom_path2_seg3_3/refOutput_bedroom_path2_seg3_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bedroom/bedroom_path2_seg3_3/4000/4000_120_1080.mp4
+
+cvvdp=8.1333 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bedroom/bedroom_path2_seg3_3/refOutput_bedroom_path2_seg3_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bedroom/bedroom_path2_seg3_3/4000/4000_120_360.mp4
+
+cvvdp=7.1996 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bedroom/bedroom_path2_seg3_3/refOutput_bedroom_path2_seg3_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bedroom/bedroom_path2_seg3_3/4000/4000_120_480.mp4
+
+cvvdp=7.5115 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bedroom/bedroom_path2_seg3_3/refOutput_bedroom_path2_seg3_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bedroom/bedroom_path2_seg3_3/4000/4000_120_720.mp4
+
+cvvdp=7.8425 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bedroom/bedroom_path2_seg3_3/refOutput_bedroom_path2_seg3_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bedroom/bedroom_path2_seg3_3/4000/4000_120_864.mp4
+
+cvvdp=7.9587 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bedroom/bedroom_path2_seg3_3/refOutput_bedroom_path2_seg3_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bedroom/bedroom_path2_seg3_3/4000/4000_30_1080.mp4
+
+cvvdp=6.3005 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bedroom/bedroom_path2_seg3_3/refOutput_bedroom_path2_seg3_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bedroom/bedroom_path2_seg3_3/4000/4000_30_360.mp4
+
+cvvdp=5.9627 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bedroom/bedroom_path2_seg3_3/refOutput_bedroom_path2_seg3_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bedroom/bedroom_path2_seg3_3/4000/4000_30_480.mp4
+
+cvvdp=6.0935 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bedroom/bedroom_path2_seg3_3/refOutput_bedroom_path2_seg3_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bedroom/bedroom_path2_seg3_3/4000/4000_30_720.mp4
+
+cvvdp=6.2110 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bedroom/bedroom_path2_seg3_3/refOutput_bedroom_path2_seg3_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bedroom/bedroom_path2_seg3_3/4000/4000_30_864.mp4
+
+cvvdp=6.2493 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bedroom/bedroom_path2_seg3_3/refOutput_bedroom_path2_seg3_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bedroom/bedroom_path2_seg3_3/4000/4000_40_1080.mp4
+
+cvvdp=6.6570 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bedroom/bedroom_path2_seg3_3/refOutput_bedroom_path2_seg3_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bedroom/bedroom_path2_seg3_3/4000/4000_40_360.mp4
+
+cvvdp=6.2540 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bedroom/bedroom_path2_seg3_3/refOutput_bedroom_path2_seg3_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bedroom/bedroom_path2_seg3_3/4000/4000_40_480.mp4
+
+cvvdp=6.4112 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bedroom/bedroom_path2_seg3_3/refOutput_bedroom_path2_seg3_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bedroom/bedroom_path2_seg3_3/4000/4000_40_720.mp4
+
+cvvdp=6.5525 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bedroom/bedroom_path2_seg3_3/refOutput_bedroom_path2_seg3_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bedroom/bedroom_path2_seg3_3/4000/4000_40_864.mp4
+
+cvvdp=6.5980 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bedroom/bedroom_path2_seg3_3/refOutput_bedroom_path2_seg3_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bedroom/bedroom_path2_seg3_3/4000/4000_50_1080.mp4
+
+cvvdp=6.9423 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bedroom/bedroom_path2_seg3_3/refOutput_bedroom_path2_seg3_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bedroom/bedroom_path2_seg3_3/4000/4000_50_360.mp4
+
+cvvdp=6.4689 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bedroom/bedroom_path2_seg3_3/refOutput_bedroom_path2_seg3_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bedroom/bedroom_path2_seg3_3/4000/4000_50_480.mp4
+
+cvvdp=6.6531 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bedroom/bedroom_path2_seg3_3/refOutput_bedroom_path2_seg3_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bedroom/bedroom_path2_seg3_3/4000/4000_50_720.mp4
+
+cvvdp=6.8204 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bedroom/bedroom_path2_seg3_3/refOutput_bedroom_path2_seg3_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bedroom/bedroom_path2_seg3_3/4000/4000_50_864.mp4
+
+cvvdp=6.8746 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bedroom/bedroom_path2_seg3_3/refOutput_bedroom_path2_seg3_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bedroom/bedroom_path2_seg3_3/4000/4000_60_1080.mp4
+
+cvvdp=7.2006 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bedroom/bedroom_path2_seg3_3/refOutput_bedroom_path2_seg3_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bedroom/bedroom_path2_seg3_3/4000/4000_60_360.mp4
+
+cvvdp=6.6511 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bedroom/bedroom_path2_seg3_3/refOutput_bedroom_path2_seg3_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bedroom/bedroom_path2_seg3_3/4000/4000_60_480.mp4
+
+cvvdp=6.8609 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bedroom/bedroom_path2_seg3_3/refOutput_bedroom_path2_seg3_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bedroom/bedroom_path2_seg3_3/4000/4000_60_720.mp4
+
+cvvdp=7.0571 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bedroom/bedroom_path2_seg3_3/refOutput_bedroom_path2_seg3_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bedroom/bedroom_path2_seg3_3/4000/4000_60_864.mp4
+
+cvvdp=7.1207 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bedroom/bedroom_path2_seg3_3/refOutput_bedroom_path2_seg3_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bedroom/bedroom_path2_seg3_3/4000/4000_70_1080.mp4
+
+cvvdp=7.4166 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bedroom/bedroom_path2_seg3_3/refOutput_bedroom_path2_seg3_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bedroom/bedroom_path2_seg3_3/4000/4000_70_360.mp4
+
+cvvdp=6.7927 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bedroom/bedroom_path2_seg3_3/refOutput_bedroom_path2_seg3_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bedroom/bedroom_path2_seg3_3/4000/4000_70_480.mp4
+
+cvvdp=7.0262 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bedroom/bedroom_path2_seg3_3/refOutput_bedroom_path2_seg3_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bedroom/bedroom_path2_seg3_3/4000/4000_70_720.mp4
+
+cvvdp=7.2483 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bedroom/bedroom_path2_seg3_3/refOutput_bedroom_path2_seg3_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bedroom/bedroom_path2_seg3_3/4000/4000_70_864.mp4
+
+cvvdp=7.3216 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bedroom/bedroom_path2_seg3_3/refOutput_bedroom_path2_seg3_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bedroom/bedroom_path2_seg3_3/4000/4000_80_1080.mp4
+
+cvvdp=7.6146 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bedroom/bedroom_path2_seg3_3/refOutput_bedroom_path2_seg3_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bedroom/bedroom_path2_seg3_3/4000/4000_80_360.mp4
+
+cvvdp=6.9136 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bedroom/bedroom_path2_seg3_3/refOutput_bedroom_path2_seg3_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bedroom/bedroom_path2_seg3_3/4000/4000_80_480.mp4
+
+cvvdp=7.1697 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bedroom/bedroom_path2_seg3_3/refOutput_bedroom_path2_seg3_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bedroom/bedroom_path2_seg3_3/4000/4000_80_720.mp4
+
+cvvdp=7.4196 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bedroom/bedroom_path2_seg3_3/refOutput_bedroom_path2_seg3_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bedroom/bedroom_path2_seg3_3/4000/4000_80_864.mp4
+
+cvvdp=7.5036 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bedroom/bedroom_path2_seg3_3/refOutput_bedroom_path2_seg3_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bedroom/bedroom_path2_seg3_3/4000/4000_90_1080.mp4
+
+cvvdp=7.7806 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bedroom/bedroom_path2_seg3_3/refOutput_bedroom_path2_seg3_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bedroom/bedroom_path2_seg3_3/4000/4000_90_360.mp4
+
+cvvdp=7.0085 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bedroom/bedroom_path2_seg3_3/refOutput_bedroom_path2_seg3_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bedroom/bedroom_path2_seg3_3/4000/4000_90_480.mp4
+
+cvvdp=7.2832 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bedroom/bedroom_path2_seg3_3/refOutput_bedroom_path2_seg3_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bedroom/bedroom_path2_seg3_3/4000/4000_90_720.mp4
+
+cvvdp=7.5572 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bedroom/bedroom_path2_seg3_3/refOutput_bedroom_path2_seg3_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bedroom/bedroom_path2_seg3_3/4000/4000_90_864.mp4
+
+cvvdp=7.6519 [JOD]
+

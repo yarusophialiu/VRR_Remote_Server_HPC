@@ -1,0 +1,1524 @@
+SLURM_ARRAY_TASK_ID: 14
+Scene path: bistro_path2_seg2_3
+Reference file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bistro/bistro_path2_seg2_3/refOutput_bistro_path2_seg2_3_166_1080.mp4
+
+
+========================= bitrate 1000 =========================
+Processing video with bitrate: 1000kbps
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bistro/bistro_path2_seg2_3/refOutput_bistro_path2_seg2_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bistro/bistro_path2_seg2_3/1000/1000_100_1080.mp4
+
+cvvdp=4.1480 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bistro/bistro_path2_seg2_3/refOutput_bistro_path2_seg2_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bistro/bistro_path2_seg2_3/1000/1000_100_360.mp4
+
+cvvdp=3.6873 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bistro/bistro_path2_seg2_3/refOutput_bistro_path2_seg2_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bistro/bistro_path2_seg2_3/1000/1000_100_480.mp4
+
+cvvdp=3.8347 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bistro/bistro_path2_seg2_3/refOutput_bistro_path2_seg2_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bistro/bistro_path2_seg2_3/1000/1000_100_720.mp4
+
+cvvdp=3.9967 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bistro/bistro_path2_seg2_3/refOutput_bistro_path2_seg2_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bistro/bistro_path2_seg2_3/1000/1000_100_864.mp4
+
+cvvdp=4.0623 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bistro/bistro_path2_seg2_3/refOutput_bistro_path2_seg2_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bistro/bistro_path2_seg2_3/1000/1000_110_1080.mp4
+
+cvvdp=4.4372 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bistro/bistro_path2_seg2_3/refOutput_bistro_path2_seg2_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bistro/bistro_path2_seg2_3/1000/1000_110_360.mp4
+
+cvvdp=3.9387 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bistro/bistro_path2_seg2_3/refOutput_bistro_path2_seg2_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bistro/bistro_path2_seg2_3/1000/1000_110_480.mp4
+
+cvvdp=4.0851 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bistro/bistro_path2_seg2_3/refOutput_bistro_path2_seg2_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bistro/bistro_path2_seg2_3/1000/1000_110_720.mp4
+
+cvvdp=4.2593 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bistro/bistro_path2_seg2_3/refOutput_bistro_path2_seg2_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bistro/bistro_path2_seg2_3/1000/1000_110_864.mp4
+
+cvvdp=4.3656 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bistro/bistro_path2_seg2_3/refOutput_bistro_path2_seg2_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bistro/bistro_path2_seg2_3/1000/1000_120_1080.mp4
+
+cvvdp=4.7725 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bistro/bistro_path2_seg2_3/refOutput_bistro_path2_seg2_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bistro/bistro_path2_seg2_3/1000/1000_120_360.mp4
+
+cvvdp=4.2421 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bistro/bistro_path2_seg2_3/refOutput_bistro_path2_seg2_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bistro/bistro_path2_seg2_3/1000/1000_120_480.mp4
+
+cvvdp=4.4060 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bistro/bistro_path2_seg2_3/refOutput_bistro_path2_seg2_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bistro/bistro_path2_seg2_3/1000/1000_120_720.mp4
+
+cvvdp=4.6078 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bistro/bistro_path2_seg2_3/refOutput_bistro_path2_seg2_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bistro/bistro_path2_seg2_3/1000/1000_120_864.mp4
+
+cvvdp=4.6944 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bistro/bistro_path2_seg2_3/refOutput_bistro_path2_seg2_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bistro/bistro_path2_seg2_3/1000/1000_30_1080.mp4
+
+cvvdp=-2.2420 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bistro/bistro_path2_seg2_3/refOutput_bistro_path2_seg2_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bistro/bistro_path2_seg2_3/1000/1000_30_360.mp4
+
+cvvdp=-2.3078 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bistro/bistro_path2_seg2_3/refOutput_bistro_path2_seg2_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bistro/bistro_path2_seg2_3/1000/1000_30_480.mp4
+
+cvvdp=-2.3120 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bistro/bistro_path2_seg2_3/refOutput_bistro_path2_seg2_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bistro/bistro_path2_seg2_3/1000/1000_30_720.mp4
+
+cvvdp=-2.2743 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bistro/bistro_path2_seg2_3/refOutput_bistro_path2_seg2_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bistro/bistro_path2_seg2_3/1000/1000_30_864.mp4
+
+cvvdp=-2.2726 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bistro/bistro_path2_seg2_3/refOutput_bistro_path2_seg2_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bistro/bistro_path2_seg2_3/1000/1000_40_1080.mp4
+
+cvvdp=-0.6305 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bistro/bistro_path2_seg2_3/refOutput_bistro_path2_seg2_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bistro/bistro_path2_seg2_3/1000/1000_40_360.mp4
+
+cvvdp=-0.7458 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bistro/bistro_path2_seg2_3/refOutput_bistro_path2_seg2_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bistro/bistro_path2_seg2_3/1000/1000_40_480.mp4
+
+cvvdp=-0.7256 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bistro/bistro_path2_seg2_3/refOutput_bistro_path2_seg2_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bistro/bistro_path2_seg2_3/1000/1000_40_720.mp4
+
+cvvdp=-0.6619 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bistro/bistro_path2_seg2_3/refOutput_bistro_path2_seg2_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bistro/bistro_path2_seg2_3/1000/1000_40_864.mp4
+
+cvvdp=-0.6552 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bistro/bistro_path2_seg2_3/refOutput_bistro_path2_seg2_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bistro/bistro_path2_seg2_3/1000/1000_50_1080.mp4
+
+cvvdp=0.6759 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bistro/bistro_path2_seg2_3/refOutput_bistro_path2_seg2_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bistro/bistro_path2_seg2_3/1000/1000_50_360.mp4
+
+cvvdp=0.5146 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bistro/bistro_path2_seg2_3/refOutput_bistro_path2_seg2_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bistro/bistro_path2_seg2_3/1000/1000_50_480.mp4
+
+cvvdp=0.5587 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bistro/bistro_path2_seg2_3/refOutput_bistro_path2_seg2_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bistro/bistro_path2_seg2_3/1000/1000_50_720.mp4
+
+cvvdp=0.6535 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bistro/bistro_path2_seg2_3/refOutput_bistro_path2_seg2_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bistro/bistro_path2_seg2_3/1000/1000_50_864.mp4
+
+cvvdp=0.6797 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bistro/bistro_path2_seg2_3/refOutput_bistro_path2_seg2_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bistro/bistro_path2_seg2_3/1000/1000_60_1080.mp4
+
+cvvdp=1.8520 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bistro/bistro_path2_seg2_3/refOutput_bistro_path2_seg2_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bistro/bistro_path2_seg2_3/1000/1000_60_360.mp4
+
+cvvdp=1.5827 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bistro/bistro_path2_seg2_3/refOutput_bistro_path2_seg2_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bistro/bistro_path2_seg2_3/1000/1000_60_480.mp4
+
+cvvdp=1.6655 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bistro/bistro_path2_seg2_3/refOutput_bistro_path2_seg2_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bistro/bistro_path2_seg2_3/1000/1000_60_720.mp4
+
+cvvdp=1.7734 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bistro/bistro_path2_seg2_3/refOutput_bistro_path2_seg2_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bistro/bistro_path2_seg2_3/1000/1000_60_864.mp4
+
+cvvdp=1.8059 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bistro/bistro_path2_seg2_3/refOutput_bistro_path2_seg2_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bistro/bistro_path2_seg2_3/1000/1000_70_1080.mp4
+
+cvvdp=2.5950 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bistro/bistro_path2_seg2_3/refOutput_bistro_path2_seg2_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bistro/bistro_path2_seg2_3/1000/1000_70_360.mp4
+
+cvvdp=2.2922 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bistro/bistro_path2_seg2_3/refOutput_bistro_path2_seg2_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bistro/bistro_path2_seg2_3/1000/1000_70_480.mp4
+
+cvvdp=2.3906 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bistro/bistro_path2_seg2_3/refOutput_bistro_path2_seg2_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bistro/bistro_path2_seg2_3/1000/1000_70_720.mp4
+
+cvvdp=2.5005 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bistro/bistro_path2_seg2_3/refOutput_bistro_path2_seg2_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bistro/bistro_path2_seg2_3/1000/1000_70_864.mp4
+
+cvvdp=2.5371 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bistro/bistro_path2_seg2_3/refOutput_bistro_path2_seg2_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bistro/bistro_path2_seg2_3/1000/1000_80_1080.mp4
+
+cvvdp=3.2595 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bistro/bistro_path2_seg2_3/refOutput_bistro_path2_seg2_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bistro/bistro_path2_seg2_3/1000/1000_80_360.mp4
+
+cvvdp=2.8950 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bistro/bistro_path2_seg2_3/refOutput_bistro_path2_seg2_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bistro/bistro_path2_seg2_3/1000/1000_80_480.mp4
+
+cvvdp=3.0007 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bistro/bistro_path2_seg2_3/refOutput_bistro_path2_seg2_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bistro/bistro_path2_seg2_3/1000/1000_80_720.mp4
+
+cvvdp=3.1612 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bistro/bistro_path2_seg2_3/refOutput_bistro_path2_seg2_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bistro/bistro_path2_seg2_3/1000/1000_80_864.mp4
+
+cvvdp=3.1864 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bistro/bistro_path2_seg2_3/refOutput_bistro_path2_seg2_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bistro/bistro_path2_seg2_3/1000/1000_90_1080.mp4
+
+cvvdp=3.7485 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bistro/bistro_path2_seg2_3/refOutput_bistro_path2_seg2_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bistro/bistro_path2_seg2_3/1000/1000_90_360.mp4
+
+cvvdp=3.3297 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bistro/bistro_path2_seg2_3/refOutput_bistro_path2_seg2_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bistro/bistro_path2_seg2_3/1000/1000_90_480.mp4
+
+cvvdp=3.4627 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bistro/bistro_path2_seg2_3/refOutput_bistro_path2_seg2_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bistro/bistro_path2_seg2_3/1000/1000_90_720.mp4
+
+cvvdp=3.6313 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bistro/bistro_path2_seg2_3/refOutput_bistro_path2_seg2_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bistro/bistro_path2_seg2_3/1000/1000_90_864.mp4
+
+cvvdp=3.6762 [JOD]
+
+
+
+========================= bitrate 1500 =========================
+Processing video with bitrate: 1500kbps
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bistro/bistro_path2_seg2_3/refOutput_bistro_path2_seg2_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bistro/bistro_path2_seg2_3/1500/1500_100_1080.mp4
+
+cvvdp=4.2099 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bistro/bistro_path2_seg2_3/refOutput_bistro_path2_seg2_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bistro/bistro_path2_seg2_3/1500/1500_100_360.mp4
+
+cvvdp=3.7195 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bistro/bistro_path2_seg2_3/refOutput_bistro_path2_seg2_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bistro/bistro_path2_seg2_3/1500/1500_100_480.mp4
+
+cvvdp=3.8930 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bistro/bistro_path2_seg2_3/refOutput_bistro_path2_seg2_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bistro/bistro_path2_seg2_3/1500/1500_100_720.mp4
+
+cvvdp=4.0901 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bistro/bistro_path2_seg2_3/refOutput_bistro_path2_seg2_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bistro/bistro_path2_seg2_3/1500/1500_100_864.mp4
+
+cvvdp=4.1216 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bistro/bistro_path2_seg2_3/refOutput_bistro_path2_seg2_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bistro/bistro_path2_seg2_3/1500/1500_110_1080.mp4
+
+cvvdp=4.5000 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bistro/bistro_path2_seg2_3/refOutput_bistro_path2_seg2_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bistro/bistro_path2_seg2_3/1500/1500_110_360.mp4
+
+cvvdp=3.9889 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bistro/bistro_path2_seg2_3/refOutput_bistro_path2_seg2_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bistro/bistro_path2_seg2_3/1500/1500_110_480.mp4
+
+cvvdp=4.1683 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bistro/bistro_path2_seg2_3/refOutput_bistro_path2_seg2_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bistro/bistro_path2_seg2_3/1500/1500_110_720.mp4
+
+cvvdp=4.3616 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bistro/bistro_path2_seg2_3/refOutput_bistro_path2_seg2_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bistro/bistro_path2_seg2_3/1500/1500_110_864.mp4
+
+cvvdp=4.4135 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bistro/bistro_path2_seg2_3/refOutput_bistro_path2_seg2_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bistro/bistro_path2_seg2_3/1500/1500_120_1080.mp4
+
+cvvdp=4.8468 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bistro/bistro_path2_seg2_3/refOutput_bistro_path2_seg2_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bistro/bistro_path2_seg2_3/1500/1500_120_360.mp4
+
+cvvdp=4.3053 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bistro/bistro_path2_seg2_3/refOutput_bistro_path2_seg2_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bistro/bistro_path2_seg2_3/1500/1500_120_480.mp4
+
+cvvdp=4.4999 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bistro/bistro_path2_seg2_3/refOutput_bistro_path2_seg2_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bistro/bistro_path2_seg2_3/1500/1500_120_720.mp4
+
+cvvdp=4.7085 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bistro/bistro_path2_seg2_3/refOutput_bistro_path2_seg2_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bistro/bistro_path2_seg2_3/1500/1500_120_864.mp4
+
+cvvdp=4.7562 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bistro/bistro_path2_seg2_3/refOutput_bistro_path2_seg2_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bistro/bistro_path2_seg2_3/1500/1500_30_1080.mp4
+
+cvvdp=-2.2680 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bistro/bistro_path2_seg2_3/refOutput_bistro_path2_seg2_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bistro/bistro_path2_seg2_3/1500/1500_30_360.mp4
+
+cvvdp=-2.3191 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bistro/bistro_path2_seg2_3/refOutput_bistro_path2_seg2_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bistro/bistro_path2_seg2_3/1500/1500_30_480.mp4
+
+cvvdp=-2.3155 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bistro/bistro_path2_seg2_3/refOutput_bistro_path2_seg2_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bistro/bistro_path2_seg2_3/1500/1500_30_720.mp4
+
+cvvdp=-2.2815 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bistro/bistro_path2_seg2_3/refOutput_bistro_path2_seg2_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bistro/bistro_path2_seg2_3/1500/1500_30_864.mp4
+
+cvvdp=-2.2839 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bistro/bistro_path2_seg2_3/refOutput_bistro_path2_seg2_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bistro/bistro_path2_seg2_3/1500/1500_40_1080.mp4
+
+cvvdp=-0.6201 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bistro/bistro_path2_seg2_3/refOutput_bistro_path2_seg2_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bistro/bistro_path2_seg2_3/1500/1500_40_360.mp4
+
+cvvdp=-0.7409 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bistro/bistro_path2_seg2_3/refOutput_bistro_path2_seg2_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bistro/bistro_path2_seg2_3/1500/1500_40_480.mp4
+
+cvvdp=-0.7157 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bistro/bistro_path2_seg2_3/refOutput_bistro_path2_seg2_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bistro/bistro_path2_seg2_3/1500/1500_40_720.mp4
+
+cvvdp=-0.6589 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bistro/bistro_path2_seg2_3/refOutput_bistro_path2_seg2_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bistro/bistro_path2_seg2_3/1500/1500_40_864.mp4
+
+cvvdp=-0.6452 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bistro/bistro_path2_seg2_3/refOutput_bistro_path2_seg2_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bistro/bistro_path2_seg2_3/1500/1500_50_1080.mp4
+
+cvvdp=0.7113 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bistro/bistro_path2_seg2_3/refOutput_bistro_path2_seg2_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bistro/bistro_path2_seg2_3/1500/1500_50_360.mp4
+
+cvvdp=0.5192 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bistro/bistro_path2_seg2_3/refOutput_bistro_path2_seg2_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bistro/bistro_path2_seg2_3/1500/1500_50_480.mp4
+
+cvvdp=0.5756 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bistro/bistro_path2_seg2_3/refOutput_bistro_path2_seg2_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bistro/bistro_path2_seg2_3/1500/1500_50_720.mp4
+
+cvvdp=0.6672 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bistro/bistro_path2_seg2_3/refOutput_bistro_path2_seg2_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bistro/bistro_path2_seg2_3/1500/1500_50_864.mp4
+
+cvvdp=0.6817 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bistro/bistro_path2_seg2_3/refOutput_bistro_path2_seg2_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bistro/bistro_path2_seg2_3/1500/1500_60_1080.mp4
+
+cvvdp=1.8543 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bistro/bistro_path2_seg2_3/refOutput_bistro_path2_seg2_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bistro/bistro_path2_seg2_3/1500/1500_60_360.mp4
+
+cvvdp=1.6015 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bistro/bistro_path2_seg2_3/refOutput_bistro_path2_seg2_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bistro/bistro_path2_seg2_3/1500/1500_60_480.mp4
+
+cvvdp=1.6837 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bistro/bistro_path2_seg2_3/refOutput_bistro_path2_seg2_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bistro/bistro_path2_seg2_3/1500/1500_60_720.mp4
+
+cvvdp=1.7977 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bistro/bistro_path2_seg2_3/refOutput_bistro_path2_seg2_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bistro/bistro_path2_seg2_3/1500/1500_60_864.mp4
+
+cvvdp=1.8271 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bistro/bistro_path2_seg2_3/refOutput_bistro_path2_seg2_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bistro/bistro_path2_seg2_3/1500/1500_70_1080.mp4
+
+cvvdp=2.6175 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bistro/bistro_path2_seg2_3/refOutput_bistro_path2_seg2_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bistro/bistro_path2_seg2_3/1500/1500_70_360.mp4
+
+cvvdp=2.3064 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bistro/bistro_path2_seg2_3/refOutput_bistro_path2_seg2_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bistro/bistro_path2_seg2_3/1500/1500_70_480.mp4
+
+cvvdp=2.4184 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bistro/bistro_path2_seg2_3/refOutput_bistro_path2_seg2_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bistro/bistro_path2_seg2_3/1500/1500_70_720.mp4
+
+cvvdp=2.5496 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bistro/bistro_path2_seg2_3/refOutput_bistro_path2_seg2_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bistro/bistro_path2_seg2_3/1500/1500_70_864.mp4
+
+cvvdp=2.5888 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bistro/bistro_path2_seg2_3/refOutput_bistro_path2_seg2_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bistro/bistro_path2_seg2_3/1500/1500_80_1080.mp4
+
+cvvdp=3.2767 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bistro/bistro_path2_seg2_3/refOutput_bistro_path2_seg2_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bistro/bistro_path2_seg2_3/1500/1500_80_360.mp4
+
+cvvdp=2.9147 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bistro/bistro_path2_seg2_3/refOutput_bistro_path2_seg2_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bistro/bistro_path2_seg2_3/1500/1500_80_480.mp4
+
+cvvdp=3.0421 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bistro/bistro_path2_seg2_3/refOutput_bistro_path2_seg2_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bistro/bistro_path2_seg2_3/1500/1500_80_720.mp4
+
+cvvdp=3.2023 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bistro/bistro_path2_seg2_3/refOutput_bistro_path2_seg2_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bistro/bistro_path2_seg2_3/1500/1500_80_864.mp4
+
+cvvdp=3.2471 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bistro/bistro_path2_seg2_3/refOutput_bistro_path2_seg2_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bistro/bistro_path2_seg2_3/1500/1500_90_1080.mp4
+
+cvvdp=3.7962 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bistro/bistro_path2_seg2_3/refOutput_bistro_path2_seg2_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bistro/bistro_path2_seg2_3/1500/1500_90_360.mp4
+
+cvvdp=3.3710 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bistro/bistro_path2_seg2_3/refOutput_bistro_path2_seg2_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bistro/bistro_path2_seg2_3/1500/1500_90_480.mp4
+
+cvvdp=3.5208 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bistro/bistro_path2_seg2_3/refOutput_bistro_path2_seg2_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bistro/bistro_path2_seg2_3/1500/1500_90_720.mp4
+
+cvvdp=3.6915 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bistro/bistro_path2_seg2_3/refOutput_bistro_path2_seg2_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bistro/bistro_path2_seg2_3/1500/1500_90_864.mp4
+
+cvvdp=3.7558 [JOD]
+
+
+
+========================= bitrate 2000 =========================
+Processing video with bitrate: 2000kbps
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bistro/bistro_path2_seg2_3/refOutput_bistro_path2_seg2_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bistro/bistro_path2_seg2_3/2000/2000_100_1080.mp4
+
+cvvdp=4.2132 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bistro/bistro_path2_seg2_3/refOutput_bistro_path2_seg2_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bistro/bistro_path2_seg2_3/2000/2000_100_360.mp4
+
+cvvdp=3.7452 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bistro/bistro_path2_seg2_3/refOutput_bistro_path2_seg2_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bistro/bistro_path2_seg2_3/2000/2000_100_480.mp4
+
+cvvdp=3.9126 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bistro/bistro_path2_seg2_3/refOutput_bistro_path2_seg2_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bistro/bistro_path2_seg2_3/2000/2000_100_720.mp4
+
+cvvdp=4.1297 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bistro/bistro_path2_seg2_3/refOutput_bistro_path2_seg2_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bistro/bistro_path2_seg2_3/2000/2000_100_864.mp4
+
+cvvdp=4.1755 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bistro/bistro_path2_seg2_3/refOutput_bistro_path2_seg2_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bistro/bistro_path2_seg2_3/2000/2000_110_1080.mp4
+
+cvvdp=4.5337 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bistro/bistro_path2_seg2_3/refOutput_bistro_path2_seg2_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bistro/bistro_path2_seg2_3/2000/2000_110_360.mp4
+
+cvvdp=4.0144 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bistro/bistro_path2_seg2_3/refOutput_bistro_path2_seg2_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bistro/bistro_path2_seg2_3/2000/2000_110_480.mp4
+
+cvvdp=4.2002 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bistro/bistro_path2_seg2_3/refOutput_bistro_path2_seg2_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bistro/bistro_path2_seg2_3/2000/2000_110_720.mp4
+
+cvvdp=4.3991 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bistro/bistro_path2_seg2_3/refOutput_bistro_path2_seg2_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bistro/bistro_path2_seg2_3/2000/2000_110_864.mp4
+
+cvvdp=4.4774 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bistro/bistro_path2_seg2_3/refOutput_bistro_path2_seg2_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bistro/bistro_path2_seg2_3/2000/2000_120_1080.mp4
+
+cvvdp=4.9030 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bistro/bistro_path2_seg2_3/refOutput_bistro_path2_seg2_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bistro/bistro_path2_seg2_3/2000/2000_120_360.mp4
+
+cvvdp=4.3325 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bistro/bistro_path2_seg2_3/refOutput_bistro_path2_seg2_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bistro/bistro_path2_seg2_3/2000/2000_120_480.mp4
+
+cvvdp=4.5380 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bistro/bistro_path2_seg2_3/refOutput_bistro_path2_seg2_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bistro/bistro_path2_seg2_3/2000/2000_120_720.mp4
+
+cvvdp=4.7653 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bistro/bistro_path2_seg2_3/refOutput_bistro_path2_seg2_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bistro/bistro_path2_seg2_3/2000/2000_120_864.mp4
+
+cvvdp=4.8363 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bistro/bistro_path2_seg2_3/refOutput_bistro_path2_seg2_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bistro/bistro_path2_seg2_3/2000/2000_30_1080.mp4
+
+cvvdp=-2.2730 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bistro/bistro_path2_seg2_3/refOutput_bistro_path2_seg2_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bistro/bistro_path2_seg2_3/2000/2000_30_360.mp4
+
+cvvdp=-2.3230 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bistro/bistro_path2_seg2_3/refOutput_bistro_path2_seg2_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bistro/bistro_path2_seg2_3/2000/2000_30_480.mp4
+
+cvvdp=-2.3167 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bistro/bistro_path2_seg2_3/refOutput_bistro_path2_seg2_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bistro/bistro_path2_seg2_3/2000/2000_30_720.mp4
+
+cvvdp=-2.2837 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bistro/bistro_path2_seg2_3/refOutput_bistro_path2_seg2_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bistro/bistro_path2_seg2_3/2000/2000_30_864.mp4
+
+cvvdp=-2.2767 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bistro/bistro_path2_seg2_3/refOutput_bistro_path2_seg2_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bistro/bistro_path2_seg2_3/2000/2000_40_1080.mp4
+
+cvvdp=-0.6279 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bistro/bistro_path2_seg2_3/refOutput_bistro_path2_seg2_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bistro/bistro_path2_seg2_3/2000/2000_40_360.mp4
+
+cvvdp=-0.7505 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bistro/bistro_path2_seg2_3/refOutput_bistro_path2_seg2_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bistro/bistro_path2_seg2_3/2000/2000_40_480.mp4
+
+cvvdp=-0.7145 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bistro/bistro_path2_seg2_3/refOutput_bistro_path2_seg2_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bistro/bistro_path2_seg2_3/2000/2000_40_720.mp4
+
+cvvdp=-0.6630 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bistro/bistro_path2_seg2_3/refOutput_bistro_path2_seg2_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bistro/bistro_path2_seg2_3/2000/2000_40_864.mp4
+
+cvvdp=-0.6429 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bistro/bistro_path2_seg2_3/refOutput_bistro_path2_seg2_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bistro/bistro_path2_seg2_3/2000/2000_50_1080.mp4
+
+cvvdp=0.7136 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bistro/bistro_path2_seg2_3/refOutput_bistro_path2_seg2_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bistro/bistro_path2_seg2_3/2000/2000_50_360.mp4
+
+cvvdp=0.5199 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bistro/bistro_path2_seg2_3/refOutput_bistro_path2_seg2_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bistro/bistro_path2_seg2_3/2000/2000_50_480.mp4
+
+cvvdp=0.5786 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bistro/bistro_path2_seg2_3/refOutput_bistro_path2_seg2_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bistro/bistro_path2_seg2_3/2000/2000_50_720.mp4
+
+cvvdp=0.6700 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bistro/bistro_path2_seg2_3/refOutput_bistro_path2_seg2_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bistro/bistro_path2_seg2_3/2000/2000_50_864.mp4
+
+cvvdp=0.6925 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bistro/bistro_path2_seg2_3/refOutput_bistro_path2_seg2_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bistro/bistro_path2_seg2_3/2000/2000_60_1080.mp4
+
+cvvdp=1.8799 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bistro/bistro_path2_seg2_3/refOutput_bistro_path2_seg2_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bistro/bistro_path2_seg2_3/2000/2000_60_360.mp4
+
+cvvdp=1.6056 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bistro/bistro_path2_seg2_3/refOutput_bistro_path2_seg2_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bistro/bistro_path2_seg2_3/2000/2000_60_480.mp4
+
+cvvdp=1.6893 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bistro/bistro_path2_seg2_3/refOutput_bistro_path2_seg2_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bistro/bistro_path2_seg2_3/2000/2000_60_720.mp4
+
+cvvdp=1.8122 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bistro/bistro_path2_seg2_3/refOutput_bistro_path2_seg2_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bistro/bistro_path2_seg2_3/2000/2000_60_864.mp4
+
+cvvdp=1.8371 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bistro/bistro_path2_seg2_3/refOutput_bistro_path2_seg2_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bistro/bistro_path2_seg2_3/2000/2000_70_1080.mp4
+
+cvvdp=2.6478 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bistro/bistro_path2_seg2_3/refOutput_bistro_path2_seg2_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bistro/bistro_path2_seg2_3/2000/2000_70_360.mp4
+
+cvvdp=2.3212 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bistro/bistro_path2_seg2_3/refOutput_bistro_path2_seg2_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bistro/bistro_path2_seg2_3/2000/2000_70_480.mp4
+
+cvvdp=2.4270 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bistro/bistro_path2_seg2_3/refOutput_bistro_path2_seg2_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bistro/bistro_path2_seg2_3/2000/2000_70_720.mp4
+
+cvvdp=2.5745 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bistro/bistro_path2_seg2_3/refOutput_bistro_path2_seg2_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bistro/bistro_path2_seg2_3/2000/2000_70_864.mp4
+
+cvvdp=2.6093 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bistro/bistro_path2_seg2_3/refOutput_bistro_path2_seg2_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bistro/bistro_path2_seg2_3/2000/2000_80_1080.mp4
+
+cvvdp=3.3188 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bistro/bistro_path2_seg2_3/refOutput_bistro_path2_seg2_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bistro/bistro_path2_seg2_3/2000/2000_80_360.mp4
+
+cvvdp=2.9267 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bistro/bistro_path2_seg2_3/refOutput_bistro_path2_seg2_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bistro/bistro_path2_seg2_3/2000/2000_80_480.mp4
+
+cvvdp=3.0605 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bistro/bistro_path2_seg2_3/refOutput_bistro_path2_seg2_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bistro/bistro_path2_seg2_3/2000/2000_80_720.mp4
+
+cvvdp=3.2266 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bistro/bistro_path2_seg2_3/refOutput_bistro_path2_seg2_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bistro/bistro_path2_seg2_3/2000/2000_80_864.mp4
+
+cvvdp=3.2596 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bistro/bistro_path2_seg2_3/refOutput_bistro_path2_seg2_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bistro/bistro_path2_seg2_3/2000/2000_90_1080.mp4
+
+cvvdp=3.8159 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bistro/bistro_path2_seg2_3/refOutput_bistro_path2_seg2_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bistro/bistro_path2_seg2_3/2000/2000_90_360.mp4
+
+cvvdp=3.3909 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bistro/bistro_path2_seg2_3/refOutput_bistro_path2_seg2_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bistro/bistro_path2_seg2_3/2000/2000_90_480.mp4
+
+cvvdp=3.5403 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bistro/bistro_path2_seg2_3/refOutput_bistro_path2_seg2_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bistro/bistro_path2_seg2_3/2000/2000_90_720.mp4
+
+cvvdp=3.7314 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bistro/bistro_path2_seg2_3/refOutput_bistro_path2_seg2_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bistro/bistro_path2_seg2_3/2000/2000_90_864.mp4
+
+cvvdp=3.7828 [JOD]
+
+
+
+========================= bitrate 3000 =========================
+Processing video with bitrate: 3000kbps
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bistro/bistro_path2_seg2_3/refOutput_bistro_path2_seg2_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bistro/bistro_path2_seg2_3/3000/3000_100_1080.mp4
+
+cvvdp=4.2760 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bistro/bistro_path2_seg2_3/refOutput_bistro_path2_seg2_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bistro/bistro_path2_seg2_3/3000/3000_100_360.mp4
+
+cvvdp=3.7683 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bistro/bistro_path2_seg2_3/refOutput_bistro_path2_seg2_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bistro/bistro_path2_seg2_3/3000/3000_100_480.mp4
+
+cvvdp=3.9413 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bistro/bistro_path2_seg2_3/refOutput_bistro_path2_seg2_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bistro/bistro_path2_seg2_3/3000/3000_100_720.mp4
+
+cvvdp=4.1665 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bistro/bistro_path2_seg2_3/refOutput_bistro_path2_seg2_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bistro/bistro_path2_seg2_3/3000/3000_100_864.mp4
+
+cvvdp=4.2207 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bistro/bistro_path2_seg2_3/refOutput_bistro_path2_seg2_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bistro/bistro_path2_seg2_3/3000/3000_110_1080.mp4
+
+cvvdp=4.6000 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bistro/bistro_path2_seg2_3/refOutput_bistro_path2_seg2_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bistro/bistro_path2_seg2_3/3000/3000_110_360.mp4
+
+cvvdp=4.0414 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bistro/bistro_path2_seg2_3/refOutput_bistro_path2_seg2_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bistro/bistro_path2_seg2_3/3000/3000_110_480.mp4
+
+cvvdp=4.2284 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bistro/bistro_path2_seg2_3/refOutput_bistro_path2_seg2_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bistro/bistro_path2_seg2_3/3000/3000_110_720.mp4
+
+cvvdp=4.4693 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bistro/bistro_path2_seg2_3/refOutput_bistro_path2_seg2_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bistro/bistro_path2_seg2_3/3000/3000_110_864.mp4
+
+cvvdp=4.5437 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bistro/bistro_path2_seg2_3/refOutput_bistro_path2_seg2_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bistro/bistro_path2_seg2_3/3000/3000_120_1080.mp4
+
+cvvdp=4.9750 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bistro/bistro_path2_seg2_3/refOutput_bistro_path2_seg2_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bistro/bistro_path2_seg2_3/3000/3000_120_360.mp4
+
+cvvdp=4.3615 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bistro/bistro_path2_seg2_3/refOutput_bistro_path2_seg2_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bistro/bistro_path2_seg2_3/3000/3000_120_480.mp4
+
+cvvdp=4.5677 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bistro/bistro_path2_seg2_3/refOutput_bistro_path2_seg2_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bistro/bistro_path2_seg2_3/3000/3000_120_720.mp4
+
+cvvdp=4.8207 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bistro/bistro_path2_seg2_3/refOutput_bistro_path2_seg2_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bistro/bistro_path2_seg2_3/3000/3000_120_864.mp4
+
+cvvdp=4.8921 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bistro/bistro_path2_seg2_3/refOutput_bistro_path2_seg2_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bistro/bistro_path2_seg2_3/3000/3000_30_1080.mp4
+
+cvvdp=-2.2815 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bistro/bistro_path2_seg2_3/refOutput_bistro_path2_seg2_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bistro/bistro_path2_seg2_3/3000/3000_30_360.mp4
+
+cvvdp=-2.3300 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bistro/bistro_path2_seg2_3/refOutput_bistro_path2_seg2_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bistro/bistro_path2_seg2_3/3000/3000_30_480.mp4
+
+cvvdp=-2.3272 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bistro/bistro_path2_seg2_3/refOutput_bistro_path2_seg2_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bistro/bistro_path2_seg2_3/3000/3000_30_720.mp4
+
+cvvdp=-2.2957 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bistro/bistro_path2_seg2_3/refOutput_bistro_path2_seg2_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bistro/bistro_path2_seg2_3/3000/3000_30_864.mp4
+
+cvvdp=-2.2853 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bistro/bistro_path2_seg2_3/refOutput_bistro_path2_seg2_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bistro/bistro_path2_seg2_3/3000/3000_40_1080.mp4
+
+cvvdp=-0.6308 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bistro/bistro_path2_seg2_3/refOutput_bistro_path2_seg2_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bistro/bistro_path2_seg2_3/3000/3000_40_360.mp4
+
+cvvdp=-0.7546 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bistro/bistro_path2_seg2_3/refOutput_bistro_path2_seg2_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bistro/bistro_path2_seg2_3/3000/3000_40_480.mp4
+
+cvvdp=-0.7220 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bistro/bistro_path2_seg2_3/refOutput_bistro_path2_seg2_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bistro/bistro_path2_seg2_3/3000/3000_40_720.mp4
+
+cvvdp=-0.6582 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bistro/bistro_path2_seg2_3/refOutput_bistro_path2_seg2_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bistro/bistro_path2_seg2_3/3000/3000_40_864.mp4
+
+cvvdp=-0.6435 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bistro/bistro_path2_seg2_3/refOutput_bistro_path2_seg2_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bistro/bistro_path2_seg2_3/3000/3000_50_1080.mp4
+
+cvvdp=0.7144 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bistro/bistro_path2_seg2_3/refOutput_bistro_path2_seg2_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bistro/bistro_path2_seg2_3/3000/3000_50_360.mp4
+
+cvvdp=0.5189 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bistro/bistro_path2_seg2_3/refOutput_bistro_path2_seg2_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bistro/bistro_path2_seg2_3/3000/3000_50_480.mp4
+
+cvvdp=0.5795 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bistro/bistro_path2_seg2_3/refOutput_bistro_path2_seg2_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bistro/bistro_path2_seg2_3/3000/3000_50_720.mp4
+
+cvvdp=0.6728 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bistro/bistro_path2_seg2_3/refOutput_bistro_path2_seg2_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bistro/bistro_path2_seg2_3/3000/3000_50_864.mp4
+
+cvvdp=0.6984 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bistro/bistro_path2_seg2_3/refOutput_bistro_path2_seg2_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bistro/bistro_path2_seg2_3/3000/3000_60_1080.mp4
+
+cvvdp=1.8802 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bistro/bistro_path2_seg2_3/refOutput_bistro_path2_seg2_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bistro/bistro_path2_seg2_3/3000/3000_60_360.mp4
+
+cvvdp=1.6053 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bistro/bistro_path2_seg2_3/refOutput_bistro_path2_seg2_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bistro/bistro_path2_seg2_3/3000/3000_60_480.mp4
+
+cvvdp=1.6964 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bistro/bistro_path2_seg2_3/refOutput_bistro_path2_seg2_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bistro/bistro_path2_seg2_3/3000/3000_60_720.mp4
+
+cvvdp=1.8195 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bistro/bistro_path2_seg2_3/refOutput_bistro_path2_seg2_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bistro/bistro_path2_seg2_3/3000/3000_60_864.mp4
+
+cvvdp=1.8511 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bistro/bistro_path2_seg2_3/refOutput_bistro_path2_seg2_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bistro/bistro_path2_seg2_3/3000/3000_70_1080.mp4
+
+cvvdp=2.6754 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bistro/bistro_path2_seg2_3/refOutput_bistro_path2_seg2_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bistro/bistro_path2_seg2_3/3000/3000_70_360.mp4
+
+cvvdp=2.3207 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bistro/bistro_path2_seg2_3/refOutput_bistro_path2_seg2_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bistro/bistro_path2_seg2_3/3000/3000_70_480.mp4
+
+cvvdp=2.4335 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bistro/bistro_path2_seg2_3/refOutput_bistro_path2_seg2_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bistro/bistro_path2_seg2_3/3000/3000_70_720.mp4
+
+cvvdp=2.5857 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bistro/bistro_path2_seg2_3/refOutput_bistro_path2_seg2_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bistro/bistro_path2_seg2_3/3000/3000_70_864.mp4
+
+cvvdp=2.6268 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bistro/bistro_path2_seg2_3/refOutput_bistro_path2_seg2_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bistro/bistro_path2_seg2_3/3000/3000_80_1080.mp4
+
+cvvdp=3.3364 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bistro/bistro_path2_seg2_3/refOutput_bistro_path2_seg2_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bistro/bistro_path2_seg2_3/3000/3000_80_360.mp4
+
+cvvdp=2.9392 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bistro/bistro_path2_seg2_3/refOutput_bistro_path2_seg2_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bistro/bistro_path2_seg2_3/3000/3000_80_480.mp4
+
+cvvdp=3.0681 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bistro/bistro_path2_seg2_3/refOutput_bistro_path2_seg2_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bistro/bistro_path2_seg2_3/3000/3000_80_720.mp4
+
+cvvdp=3.2475 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bistro/bistro_path2_seg2_3/refOutput_bistro_path2_seg2_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bistro/bistro_path2_seg2_3/3000/3000_80_864.mp4
+
+cvvdp=3.2989 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bistro/bistro_path2_seg2_3/refOutput_bistro_path2_seg2_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bistro/bistro_path2_seg2_3/3000/3000_90_1080.mp4
+
+cvvdp=3.8707 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bistro/bistro_path2_seg2_3/refOutput_bistro_path2_seg2_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bistro/bistro_path2_seg2_3/3000/3000_90_360.mp4
+
+cvvdp=3.4001 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bistro/bistro_path2_seg2_3/refOutput_bistro_path2_seg2_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bistro/bistro_path2_seg2_3/3000/3000_90_480.mp4
+
+cvvdp=3.5594 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bistro/bistro_path2_seg2_3/refOutput_bistro_path2_seg2_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bistro/bistro_path2_seg2_3/3000/3000_90_720.mp4
+
+cvvdp=3.7575 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bistro/bistro_path2_seg2_3/refOutput_bistro_path2_seg2_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bistro/bistro_path2_seg2_3/3000/3000_90_864.mp4
+
+cvvdp=3.8191 [JOD]
+
+
+
+========================= bitrate 4000 =========================
+Processing video with bitrate: 4000kbps
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bistro/bistro_path2_seg2_3/refOutput_bistro_path2_seg2_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bistro/bistro_path2_seg2_3/4000/4000_100_1080.mp4
+
+cvvdp=4.3110 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bistro/bistro_path2_seg2_3/refOutput_bistro_path2_seg2_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bistro/bistro_path2_seg2_3/4000/4000_100_360.mp4
+
+cvvdp=3.7713 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bistro/bistro_path2_seg2_3/refOutput_bistro_path2_seg2_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bistro/bistro_path2_seg2_3/4000/4000_100_480.mp4
+
+cvvdp=3.9482 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bistro/bistro_path2_seg2_3/refOutput_bistro_path2_seg2_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bistro/bistro_path2_seg2_3/4000/4000_100_720.mp4
+
+cvvdp=4.1761 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bistro/bistro_path2_seg2_3/refOutput_bistro_path2_seg2_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bistro/bistro_path2_seg2_3/4000/4000_100_864.mp4
+
+cvvdp=4.2497 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bistro/bistro_path2_seg2_3/refOutput_bistro_path2_seg2_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bistro/bistro_path2_seg2_3/4000/4000_110_1080.mp4
+
+cvvdp=4.6344 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bistro/bistro_path2_seg2_3/refOutput_bistro_path2_seg2_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bistro/bistro_path2_seg2_3/4000/4000_110_360.mp4
+
+cvvdp=4.0487 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bistro/bistro_path2_seg2_3/refOutput_bistro_path2_seg2_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bistro/bistro_path2_seg2_3/4000/4000_110_480.mp4
+
+cvvdp=4.2434 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bistro/bistro_path2_seg2_3/refOutput_bistro_path2_seg2_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bistro/bistro_path2_seg2_3/4000/4000_110_720.mp4
+
+cvvdp=4.4844 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bistro/bistro_path2_seg2_3/refOutput_bistro_path2_seg2_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bistro/bistro_path2_seg2_3/4000/4000_110_864.mp4
+
+cvvdp=4.5652 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bistro/bistro_path2_seg2_3/refOutput_bistro_path2_seg2_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bistro/bistro_path2_seg2_3/4000/4000_120_1080.mp4
+
+cvvdp=5.0144 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bistro/bistro_path2_seg2_3/refOutput_bistro_path2_seg2_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bistro/bistro_path2_seg2_3/4000/4000_120_360.mp4
+
+cvvdp=4.3778 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bistro/bistro_path2_seg2_3/refOutput_bistro_path2_seg2_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bistro/bistro_path2_seg2_3/4000/4000_120_480.mp4
+
+cvvdp=4.5840 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bistro/bistro_path2_seg2_3/refOutput_bistro_path2_seg2_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bistro/bistro_path2_seg2_3/4000/4000_120_720.mp4
+
+cvvdp=4.8578 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bistro/bistro_path2_seg2_3/refOutput_bistro_path2_seg2_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bistro/bistro_path2_seg2_3/4000/4000_120_864.mp4
+
+cvvdp=4.9325 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bistro/bistro_path2_seg2_3/refOutput_bistro_path2_seg2_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bistro/bistro_path2_seg2_3/4000/4000_30_1080.mp4
+
+cvvdp=-2.2831 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bistro/bistro_path2_seg2_3/refOutput_bistro_path2_seg2_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bistro/bistro_path2_seg2_3/4000/4000_30_360.mp4
+
+cvvdp=-2.3373 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bistro/bistro_path2_seg2_3/refOutput_bistro_path2_seg2_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bistro/bistro_path2_seg2_3/4000/4000_30_480.mp4
+
+cvvdp=-2.3333 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bistro/bistro_path2_seg2_3/refOutput_bistro_path2_seg2_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bistro/bistro_path2_seg2_3/4000/4000_30_720.mp4
+
+cvvdp=-2.2978 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bistro/bistro_path2_seg2_3/refOutput_bistro_path2_seg2_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bistro/bistro_path2_seg2_3/4000/4000_30_864.mp4
+
+cvvdp=-2.2880 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bistro/bistro_path2_seg2_3/refOutput_bistro_path2_seg2_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bistro/bistro_path2_seg2_3/4000/4000_40_1080.mp4
+
+cvvdp=-0.6363 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bistro/bistro_path2_seg2_3/refOutput_bistro_path2_seg2_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bistro/bistro_path2_seg2_3/4000/4000_40_360.mp4
+
+cvvdp=-0.7593 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bistro/bistro_path2_seg2_3/refOutput_bistro_path2_seg2_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bistro/bistro_path2_seg2_3/4000/4000_40_480.mp4
+
+cvvdp=-0.7252 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bistro/bistro_path2_seg2_3/refOutput_bistro_path2_seg2_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bistro/bistro_path2_seg2_3/4000/4000_40_720.mp4
+
+cvvdp=-0.6616 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bistro/bistro_path2_seg2_3/refOutput_bistro_path2_seg2_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bistro/bistro_path2_seg2_3/4000/4000_40_864.mp4
+
+cvvdp=-0.6467 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bistro/bistro_path2_seg2_3/refOutput_bistro_path2_seg2_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bistro/bistro_path2_seg2_3/4000/4000_50_1080.mp4
+
+cvvdp=0.7174 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bistro/bistro_path2_seg2_3/refOutput_bistro_path2_seg2_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bistro/bistro_path2_seg2_3/4000/4000_50_360.mp4
+
+cvvdp=0.5143 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bistro/bistro_path2_seg2_3/refOutput_bistro_path2_seg2_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bistro/bistro_path2_seg2_3/4000/4000_50_480.mp4
+
+cvvdp=0.5813 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bistro/bistro_path2_seg2_3/refOutput_bistro_path2_seg2_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bistro/bistro_path2_seg2_3/4000/4000_50_720.mp4
+
+cvvdp=0.6702 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bistro/bistro_path2_seg2_3/refOutput_bistro_path2_seg2_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bistro/bistro_path2_seg2_3/4000/4000_50_864.mp4
+
+cvvdp=0.6978 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bistro/bistro_path2_seg2_3/refOutput_bistro_path2_seg2_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bistro/bistro_path2_seg2_3/4000/4000_60_1080.mp4
+
+cvvdp=1.8878 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bistro/bistro_path2_seg2_3/refOutput_bistro_path2_seg2_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bistro/bistro_path2_seg2_3/4000/4000_60_360.mp4
+
+cvvdp=1.6034 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bistro/bistro_path2_seg2_3/refOutput_bistro_path2_seg2_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bistro/bistro_path2_seg2_3/4000/4000_60_480.mp4
+
+cvvdp=1.6964 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bistro/bistro_path2_seg2_3/refOutput_bistro_path2_seg2_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bistro/bistro_path2_seg2_3/4000/4000_60_720.mp4
+
+cvvdp=1.8195 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bistro/bistro_path2_seg2_3/refOutput_bistro_path2_seg2_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bistro/bistro_path2_seg2_3/4000/4000_60_864.mp4
+
+cvvdp=1.8570 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bistro/bistro_path2_seg2_3/refOutput_bistro_path2_seg2_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bistro/bistro_path2_seg2_3/4000/4000_70_1080.mp4
+
+cvvdp=2.6769 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bistro/bistro_path2_seg2_3/refOutput_bistro_path2_seg2_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bistro/bistro_path2_seg2_3/4000/4000_70_360.mp4
+
+cvvdp=2.3223 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bistro/bistro_path2_seg2_3/refOutput_bistro_path2_seg2_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bistro/bistro_path2_seg2_3/4000/4000_70_480.mp4
+
+cvvdp=2.4372 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bistro/bistro_path2_seg2_3/refOutput_bistro_path2_seg2_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bistro/bistro_path2_seg2_3/4000/4000_70_720.mp4
+
+cvvdp=2.5869 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bistro/bistro_path2_seg2_3/refOutput_bistro_path2_seg2_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bistro/bistro_path2_seg2_3/4000/4000_70_864.mp4
+
+cvvdp=2.6352 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bistro/bistro_path2_seg2_3/refOutput_bistro_path2_seg2_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bistro/bistro_path2_seg2_3/4000/4000_80_1080.mp4
+
+cvvdp=3.3585 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bistro/bistro_path2_seg2_3/refOutput_bistro_path2_seg2_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bistro/bistro_path2_seg2_3/4000/4000_80_360.mp4
+
+cvvdp=2.9356 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bistro/bistro_path2_seg2_3/refOutput_bistro_path2_seg2_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bistro/bistro_path2_seg2_3/4000/4000_80_480.mp4
+
+cvvdp=3.0741 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bistro/bistro_path2_seg2_3/refOutput_bistro_path2_seg2_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bistro/bistro_path2_seg2_3/4000/4000_80_720.mp4
+
+cvvdp=3.2528 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bistro/bistro_path2_seg2_3/refOutput_bistro_path2_seg2_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bistro/bistro_path2_seg2_3/4000/4000_80_864.mp4
+
+cvvdp=3.3064 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bistro/bistro_path2_seg2_3/refOutput_bistro_path2_seg2_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bistro/bistro_path2_seg2_3/4000/4000_90_1080.mp4
+
+cvvdp=3.8924 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bistro/bistro_path2_seg2_3/refOutput_bistro_path2_seg2_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bistro/bistro_path2_seg2_3/4000/4000_90_360.mp4
+
+cvvdp=3.4086 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bistro/bistro_path2_seg2_3/refOutput_bistro_path2_seg2_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bistro/bistro_path2_seg2_3/4000/4000_90_480.mp4
+
+cvvdp=3.5660 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bistro/bistro_path2_seg2_3/refOutput_bistro_path2_seg2_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bistro/bistro_path2_seg2_3/4000/4000_90_720.mp4
+
+cvvdp=3.7691 [JOD]
+
+
+reference /home/yl962/rds/hpc-work/VRR/VRRMP4/reference_videos/bistro/bistro_path2_seg2_3/refOutput_bistro_path2_seg2_3_166_1080.mp4
+test /home/yl962/rds/hpc-work/VRR/VRRMP4/h265_to_mp4/bistro/bistro_path2_seg2_3/4000/4000_90_864.mp4
+
+cvvdp=3.8287 [JOD]
+
