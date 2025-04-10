@@ -9,6 +9,8 @@ def clean_logger_file(jobid_list, scene, input_scene_path, output_path):
         print(f'===== jobid {jobid} =====')
         input_file_path = f'{input_scene_path}/{scene}_logger_{jobid}.txt'
         output_file_path = f'{cleaned_scene_path}/{scene}_{jobid}.txt'
+        os.makedirs(os.path.dirname(output_file_path), exist_ok=True)
+
         if not os.path.exists(input_file_path):
             not_exist.append(jobid)
             print(f'File {scene}_logger_{jobid}.txt not exist.')
@@ -42,6 +44,8 @@ def clean_logger_file(jobid_list, scene, input_scene_path, output_path):
 
             elif "cvvdp=" in line:
                 match = re.search(r"cvvdp=([\d\.]+)", line)
+                # match = re.search(r"cvvdp=([-]?\d+\.\d+)", line)
+
                 if match and current_bitrate and current_fps:
                     results[current_bitrate][current_fps].append(f"cvvdp={match.group(1)} [JOD]")
                     
@@ -64,14 +68,15 @@ def clean_logger_file(jobid_list, scene, input_scene_path, output_path):
 # plot using plot_cvvdp.py 
 if __name__ == "__main__":
     scene_arr = ['bedroom', 'bistro', 'crytek_sponza', 'gallery', 'living_room', \
-            'lost_empire', 'room', 'sibenik', 'suntemple', 'suntemple_statue']
-    scene_arr = ['bedroom']
+            'lost_empire', 'room', 'sibenik', 'suntemple', 'suntemple_statue'] # 'lost_empire'
+    scene_arr = ['lost_empire']
+    # scene_arr = ['bedroom']
     CLEANED_DIR = "cleaned"
-    jobid_list = [i for i in range(1, 2)] # 1, 46
+    jobid_list = [i for i in range(1, 46)] # 1, 46
 
     # Run over all logger files in a folder
     for scene in scene_arr:
-        input_scene_path = f"test_cvvdp_results/{scene}"
+        input_scene_path = f"cvvdp_results/{scene}"
         cleaned_scene_path = f'{CLEANED_DIR}/{scene}'
         not_exist = clean_logger_file(jobid_list, scene, input_scene_path, cleaned_scene_path)
 

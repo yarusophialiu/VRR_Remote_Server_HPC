@@ -15,3 +15,39 @@ Submitted batch job 7899638
 7899638_[1]    ampere    cvvdp    yl962 PD       0:00      1 (None) runcvvdp_stdout.sh python runcvvdp.py $SLURM_ARRAY_TASK_ID $scene > "$filename" 2>&1
 7899637_[1]    ampere    cvvdp    yl962 PD       0:00      1 (None) runcvvdp_logger.sh edit python logger stdout
 7899293_[1]    ampere    cvvdp    yl962 PD       0:00      1 (Priority) added log in runcvvdp
+
+(base) [yl962@login-q-3 run_cvvdp]$ squeue -u yl962
+             JOBID PARTITION     NAME     USER ST       TIME  NODES NODELIST(REASON)
+   8005539_[11-20]    ampere    11_20    yl962 PD       0:00      1 (Priority)
+   8008317_[21-45]    ampere    21_45    yl962 PD       0:00      1 (Priority)
+        7991099_10    ampere    le_10    yl962  R      34:58      1 gpu-q-15
+
+
+excel wrong sequences
+bedroom 
+    jobid 23, bedroom_path3_seg2_2, data not complete
+bistro 
+    jobid 28, path4_seg1_1 (longer hours), fps 30 data not complete, 
+    jobid 36 path4_seg3_3 (longer hours), jobid 41 path5_seg2_2 (longer hours), 
+    42 path5_seg2_3 (longer hours), jobid 44 path5_seg3_2 (longer hours)
+gallery
+    jobid 2 path1_seg1_2  jobid 5 path1_seg2_2 jobid 3 path1_seg1_3
+    jobid 33 path4_seg2_3
+living_room
+    jobid 23 path3_seg2_2 jobid 24 path3_seg2_3 jobid 27 path3_seg3_3 
+    jobid 30 path4_seg1_3 jobid 42 path5_seg2_3 jobid 44 path5_seg3_2
+room
+    jobid 9 path1_seg3_3 jobid 41 path5_seg2_2
+sibenik
+    jobid 3 path1_seg1_3 jobid 5 path1_seg2_2 jobid 18 path2_seg3_3
+    jobid 24 path3_seg2_3 jobid 32 path4_seg2_2 jobid 36 path4_seg3_3
+    jobid 39 path5_seg1_3 
+suntemple
+    jobid 38 path5_seg1_2 jobid 44 path5_seg3_2 jobid 45 path5_seg3_3
+suntemplestatue
+    jobid 1 jobid 5 path1_seg2_2 jobid 12 path2_seg1_3 jobid 15 path2_seg2_3
+    jobid 18 path2_seg3_3 jobid 23 path3_seg2_2 jobid 24 path3_seg2_3
+    jobid 30 path4_seg1_3 jobid 32 path4_seg2_2 jobid 38 path5_seg1_2
+    jobid 39 path5_seg1_3 jobid 45 path5_seg3_3
+lost_empire
+    jobid 8 path1_seg3_2 jobid 45 path5_seg3_3

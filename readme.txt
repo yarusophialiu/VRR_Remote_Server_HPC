@@ -1,4 +1,4 @@
-Everything happens on HPC cluster
+Everything happens on HPC cluster, then process cvvdp_results obtained from HPC
 
 embed h265 into mp4
 run cvvdp on test and reference videos
@@ -32,14 +32,19 @@ dos2unix runcvvdp.sh
 print in python file, echo in bash file, will be saved into xxx.log
 
 
+Process cvvdp_results from HPC
+clean_cvvdp_results.py
+write_excel.py
+
+
+
 (base) [yl962@login-q-2 run_cvvdp]$ squeue -u yl962
              JOBID PARTITION     NAME     USER ST       TIME  NODES NODELIST(REASON)
-    7901225_[1-45]    ampere    cvvdp    yl962 PD       0:00      1 (None)
-    7901222_[1-45]    ampere    cvvdp    yl962 PD       0:00      1 (None)
-    7901220_[1-45]    ampere    cvvdp    yl962 PD       0:00      1 (Priority)
-    7901219_[1-45]    ampere    cvvdp    yl962 PD       0:00      1 (Priority)
-    7901217_[1-45]    ampere    cvvdp    yl962 PD       0:00      1 (Priority)
-    7901216_[1-45]    ampere    cvvdp    yl962 PD       0:00      1 (Priority)
-    7901215_[1-45]    ampere    cvvdp    yl962 PD       0:00      1 (Priority) crytek_sponza
-    7901079_[1-45]    ampere    cvvdp    yl962 PD       0:00      1 (Priority) bistro
-    7901074_[1-45]    ampere    cvvdp    yl962 PD       0:00      1 (Priority) bedroom
+    7942865_[1-45]    ampere lost_emp    yl962 PD       0:00      1 (None) lost_empire
+(base) [yl962@login-q-3 run_cvvdp]$ squeue -u yl962
+             JOBID PARTITION     NAME     USER ST       TIME  NODES NODELIST(REASON)
+        7991099_10    ampere    le_10    yl962 PD       0:00      1 (ReqNodeNotAvail, UnavailableNodes:gpu-q-[2-47])
+   8005539_[11-20]    ampere    11_20    yl962 PD       0:00      1 (None)
+
+
+cvvdp --test .mp4 --ref .mp4 --display standard_fhd --full-screen-resize bilinear --temp-resample
