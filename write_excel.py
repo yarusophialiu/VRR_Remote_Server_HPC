@@ -118,8 +118,9 @@ def get_rows():
 
 def load_data_to_excel(excel_path, jobid_list):
     for jobid in jobid_list:
-        print(f'====================== jobid {jobid} ======================')
         file_path, sheet_name = get_name(jobid)
+        # print(f'file_path {file_path}')
+        print(f'====================== jobid {jobid} {sheet_name} ======================')
         if WRITE_EXCEL:
             create_sheet(excel_path, sheet_name)
         with open(file_path, 'r') as file:
@@ -130,18 +131,32 @@ def load_data_to_excel(excel_path, jobid_list):
         bitrate_data = {}
         for match in matches:
             bitrate = int(match[0])
-            if DEBUG:
-                print(f'============== {bitrate}kbps ==============')
+            # if DEBUG:
+            # print(f'============== {bitrate}kbps ==============')
             fps_categories, fps_data = get_fps_data(match, bitrate_data)
             # print(f'bitrate {bitrate}, fps data \n {fps_data}\n\n\n')
             # print(f'bitrate {bitrate}, fps_categories \n {fps_categories}\n\n\n')
             if WRITE_EXCEL:
                 write_to_excel(excel_path, bitrate, fps_categories, fps_data, sheet_name)
+        
+        wb = load_workbook(excel_path)
+        row1, row2, fps_positions, fill_color = get_rows()
+        _, sheet_name = get_name(jobid)
+        ws = wb[sheet_name]
+        ws.append(row1)
+        ws.append(row2)
+        for pos in fps_positions:
+            cell1 = ws.cell(row=ws.max_row-1, column=pos)
+            cell2 = ws.cell(row=ws.max_row, column=pos)
+            cell1.fill = fill_color
+            cell2.fill = fill_color
+        wb.save(excel_path)
 
 
 def append_header_rows(excel_path, jobid_list):
     wb = load_workbook(excel_path)
     row1, row2, fps_positions, fill_color = get_rows()
+    # print(f'row1 {row1}')
 
     for jobid in jobid_list:
         _, sheet_name = get_name(jobid)
@@ -167,9 +182,9 @@ def append_header_rows(excel_path, jobid_list):
 # close excel file to write data to it
 if __name__ == "__main__":
     SCENES = ['bedroom', 'bistro', 'crytek_sponza', 'gallery', 'living_room', \
-            'lost_empire', 'room', 'sibenik', 'suntemple', 'suntemple_statue']
+            'lost_empire', 'room', 'sibenik', 'suntemple', 'suntemplestatue']
     
-    SCENES = ['bedroom']
+    SCENES = ['lost_empire']
     
     CLEANED_DIR = "cleaned"
     WRITE_EXCEL = True
@@ -182,9 +197,9 @@ if __name__ == "__main__":
         cleaned_scene_path = f'{CLEANED_DIR}/{SCENE}'
         excel_path = f'{excel_dir}/data-{today}/{SCENE}.xlsx'
         os.makedirs(f'{excel_dir}/data-{today}', exist_ok=True)
-        jobid_list = [i for i in range(1, 2)] # TODO: change node
+        jobid_list = [i for i in range(9, 46)] # TODO: change node 1-46
         # jobid_list = [i for i in range(18, 46)] # TODO: change node
 
         # TODO: loop load_data_to_excel
         load_data_to_excel(excel_path, jobid_list)
-        append_header_rows(excel_path, jobid_list)
+        # append_header_rows(excel_path, jobid_list)
