@@ -3,3 +3,6 @@ cvvdp_results
 excel
 test_cvvdp_results
 *.mp4
+cvvdp_plots
+h265_to_mp4
+HPC_videos

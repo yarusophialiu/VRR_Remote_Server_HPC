@@ -32,8 +32,8 @@ def run_cvvdp(reference_path, test_path):
         logging.info(f'\nreference {reference_path}')
         logging.info(f'test {test_path}\n')
 
-        # command = f"cvvdp --test {test_path} --ref {reference_path} --display standard_fhd --full-screen-resize bilinear --temp-resample --hold-blur"
-        command = f"cvvdp --test {test_path} --ref {reference_path} --display standard_fhd --full-screen-resize bilinear --temp-resample"
+        command = f"cvvdp --test {test_path} --ref {reference_path} --display standard_fhd --full-screen-resize bilinear --temp-resample --hold-blur"
+        # command = f"cvvdp --test {test_path} --ref {reference_path} --display standard_fhd --full-screen-resize bilinear --temp-resample"
 
         try:
             result = subprocess.run(command, capture_output=True, text=True, shell=True)
@@ -87,7 +87,7 @@ if __name__ == "__main__":
     logger.info(f'Scene path: {scene}_path{path}_seg{seg}_{speed}')
 
     bitrates = [1000, 1500, 2000, 3000, 4000]
-    # bitrates = [500]
+    # bitrates = [1000, 1500, 2000]
 
 
     ref_root = f'{VRRMP4_Reference}/{scene}'

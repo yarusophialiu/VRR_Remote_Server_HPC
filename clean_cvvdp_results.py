@@ -1,5 +1,6 @@
 import os
 import re
+from utils import *
 from collections import defaultdict
 
 
@@ -43,8 +44,8 @@ def clean_logger_file(jobid_list, scene, input_scene_path, output_path):
                     current_fps = match.group(2)
 
             elif "cvvdp=" in line:
-                match = re.search(r"cvvdp=([\d\.]+)", line)
-                # match = re.search(r"cvvdp=([-]?\d+\.\d+)", line)
+                # match = re.search(r"cvvdp=([\d\.]+)", line)
+                match = re.search(r"cvvdp=([-]?\d+\.\d+)", line)
 
                 if match and current_bitrate and current_fps:
                     results[current_bitrate][current_fps].append(f"cvvdp={match.group(1)} [JOD]")
@@ -68,15 +69,16 @@ def clean_logger_file(jobid_list, scene, input_scene_path, output_path):
 # plot using plot_cvvdp.py 
 if __name__ == "__main__":
     scene_arr = ['bedroom', 'bistro', 'crytek_sponza', 'gallery', 'living_room', \
-            'lost_empire', 'room', 'sibenik', 'suntemple', 'suntemple_statue'] # 'lost_empire'
-    scene_arr = ['lost_empire']
-    # scene_arr = ['bedroom']
-    CLEANED_DIR = "cleaned"
+            'lost_empire', 'room', 'sibenik', 'suntemple', 'suntemplestatue']
+    scene_arr = ['bedroom', 'bistro']
+    # scene_arr = ['bedroom_blur', 'bistro_blur', 'gallery_blur', 'room_blur']
+    # today = get_today()
+    today = '2025-04-24'
+    CLEANED_DIR = f"cleaned/{today}"
     jobid_list = [i for i in range(1, 46)] # 1, 46
-
     # Run over all logger files in a folder
     for scene in scene_arr:
-        input_scene_path = f"cvvdp_results/{scene}"
+        input_scene_path = f"cvvdp_results/{today}/{scene}"
         cleaned_scene_path = f'{CLEANED_DIR}/{scene}'
         not_exist = clean_logger_file(jobid_list, scene, input_scene_path, cleaned_scene_path)
 

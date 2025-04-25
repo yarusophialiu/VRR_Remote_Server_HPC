@@ -72,7 +72,8 @@ def get_fps_data(match, bitrate_data):
         if DEBUG:
             print(f'cvvdp_values \n {cvvdp_values}')              
         fps_data[fps] = list(map(float, cvvdp_values))
-
+    # print(f'fps_data {fps_data}')
+    # print(f'fps_data.keys() {fps_data.keys()}')
 
     bitrate_data[bitrate] = fps_data # fps_data is like values_dict
 
@@ -183,11 +184,11 @@ def append_header_rows(excel_path, jobid_list):
 if __name__ == "__main__":
     SCENES = ['bedroom', 'bistro', 'crytek_sponza', 'gallery', 'living_room', \
             'lost_empire', 'room', 'sibenik', 'suntemple', 'suntemplestatue']
-    
-    SCENES = ['lost_empire']
-    
-    CLEANED_DIR = "cleaned"
-    WRITE_EXCEL = True
+    SCENES = ['bedroom', 'bistro']
+    # today = get_today()
+    today = '2025-04-24'
+    CLEANED_DIR = f"cleaned/{today}"
+    WRITE_EXCEL = True # False True
     DEBUG = False
     excel_dir = 'excel'
     today = date.today()
@@ -197,7 +198,7 @@ if __name__ == "__main__":
         cleaned_scene_path = f'{CLEANED_DIR}/{SCENE}'
         excel_path = f'{excel_dir}/data-{today}/{SCENE}.xlsx'
         os.makedirs(f'{excel_dir}/data-{today}', exist_ok=True)
-        jobid_list = [i for i in range(9, 46)] # TODO: change node 1-46
+        jobid_list = [i for i in range(1, 46)] # TODO: change node 1-46
         # jobid_list = [i for i in range(18, 46)] # TODO: change node
 
         # TODO: loop load_data_to_excel

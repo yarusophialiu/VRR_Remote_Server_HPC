@@ -1,4 +1,8 @@
 from math import *
+from datetime import date
+
+def get_today():
+    return date.today()
 
 def mapIdToPath(id):
     """

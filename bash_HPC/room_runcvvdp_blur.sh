@@ -1,6 +1,6 @@
 #!/bin/bash
 
-#SBATCH -J bedcvvdp
+#SBATCH -J bedblur
 #SBATCH -A MANTIUK-SL3-GPU
 #SBATCH -p ampere
 #SBATCH --nodes=1
@@ -8,9 +8,9 @@
 #SBATCH -o logs/tmp_%a.log
 
 #SBATCH --time=01:00:00
-#SBATCH -a 1-45 # TODO: change job array id
+#SBATCH -a 1-6 # TODO: change job array id
 
-scene="bedroom" # TODO: change scene
+scene="room" # TODO: change scene
 
 numnodes=$SLURM_JOB_NUM_NODES
 numtasks=$SLURM_NTASKS
@@ -51,14 +51,12 @@ echo "Current directory: `pwd`"
 echo -e "\nnumtasks=$numtasks, numnodes=$numnodes, mpi_tasks_per_node=$mpi_tasks_per_node"
 echo -e "\nExecuting command:\n==================\n$CMD\n"
 
-
 today=$(date +%F)  # Formats to YYYY-MM-DD
-directory_name="/home/yl962/rds/hpc-work/VRR/cvvdp_results/${today}/${scene}"
-# directory_name="/home/yl962/rds/hpc-work/VRR/cvvdp_results/${scene}"
+directory_name="/home/yl962/rds/hpc-work/VRR/cvvdp_results/${today}/${scene}_blur"
 mkdir -p "$directory_name"
-filename="${directory_name}/${scene}_logger_${SLURM_ARRAY_TASK_ID}.txt"
+filename="${directory_name}/${scene}_blur_logger_${SLURM_ARRAY_TASK_ID}.txt"
 touch "$filename"
-python runcvvdp_logger.py $SLURM_ARRAY_TASK_ID $scene > "$filename" 
+python runcvvdp_logger_blur.py $SLURM_ARRAY_TASK_ID $scene > "$filename" 
 
 echo -e "\nRun metric finished\n"
 date

@@ -1,6 +1,6 @@
 #!/bin/bash
 
-#SBATCH -J cvvdp
+#SBATCH -J galcvvdp
 #SBATCH -A MANTIUK-SL3-GPU
 #SBATCH -p ampere
 #SBATCH --nodes=1
@@ -51,7 +51,9 @@ echo "Current directory: `pwd`"
 echo -e "\nnumtasks=$numtasks, numnodes=$numnodes, mpi_tasks_per_node=$mpi_tasks_per_node"
 echo -e "\nExecuting command:\n==================\n$CMD\n"
 
-directory_name="/home/yl962/rds/hpc-work/VRR/cvvdp_results/${scene}"
+today=$(date +%F)  # Formats to YYYY-MM-DD
+directory_name="/home/yl962/rds/hpc-work/VRR/cvvdp_results/${today}/${scene}"
+# directory_name="/home/yl962/rds/hpc-work/VRR/cvvdp_results/${scene}"
 mkdir -p "$directory_name"
 filename="${directory_name}/${scene}_logger_${SLURM_ARRAY_TASK_ID}.txt"
 touch "$filename"

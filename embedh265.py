@@ -9,9 +9,10 @@ import logging
 def run_encode_command(input_path, frame_rate, output_path):
     cmd = [
         'ffmpeg', '-i', input_path,
-        '-r', str(frame_rate),
-        '-vcodec', 'copy',
-        '-acodec', 'copy',
+        '-c:v', 'copy',
+        # '-r', str(frame_rate),
+        # '-vcodec', 'copy',
+        # '-acodec', 'copy',
         output_path
     ]
 
@@ -32,9 +33,15 @@ def embed_h265(scene, input_root, output_root):
     scene_path = os.path.join(input_root, scene)
 
     for seg in os.listdir(scene_path):
+        # if seg != 'bedroom_path3_seg2_2':
+        #     continue
+        # print(f'seg {seg}')
         seg_path = os.path.join(scene_path, seg)
 
         for bitrate in os.listdir(seg_path):
+            # if bitrate != '500':
+            #     print(f'bitrate {bitrate}, continue')
+            #     continue
             bitrate_path = os.path.join(seg_path, bitrate)
 
             for file in os.listdir(bitrate_path):
@@ -78,7 +85,7 @@ if __name__ == "__main__":
     VRR_DATA = r'/home/yl962/rds/hpc-work/VRR/VRRMP4'
 
     # # local PC
-    # input_root = r"C:\Users\15142\new\Falcor\Source\Samples\EncodeDecode\encodedH264\2025-04-04" 
+    # input_root = r"C:\Users\15142\new\Falcor\Source\Samples\EncodeDecode\encodedH264\2025-04-20" 
     # VRR_DATA = r'C:\Users\15142\Projects\VRR\Data'
 
     logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
@@ -91,6 +98,7 @@ if __name__ == "__main__":
     args = parser.parse_args()
     id = args.SLURM_ARRAY_TASK_ID
     id = int(id)
+    # id = 5
 
     scene_arr = ['bedroom', 'bistro', 
              'crytek_sponza', 'gallery', 

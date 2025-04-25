@@ -19,7 +19,7 @@ steps
 upload h265 videos to VRRMP4/h265
 wsl
 kinit yl962@DC.CL.CAM.AC.UK
-rsync -avzP crytek_sponza gallery living_room lost_empire yl962@login-icelake.hpc.cam.ac.uk:/home/yl962/rds/hpc-work/VRR/VRRMP4/h265
+rsync -avP bistro crytek_sponza gallery yl962@login-icelake.hpc.cam.ac.uk:/home/yl962/rds/hpc-work/VRR/VRRMP4/h265
 (rsync resume from lost connection, better than scp)
 under convert_h265, change id, sbatch embedh265.py
 
@@ -35,16 +35,12 @@ print in python file, echo in bash file, will be saved into xxx.log
 Process cvvdp_results from HPC
 clean_cvvdp_results.py
 write_excel.py
+plot_cvvdp.py
 
 
-
-(base) [yl962@login-q-2 run_cvvdp]$ squeue -u yl962
-             JOBID PARTITION     NAME     USER ST       TIME  NODES NODELIST(REASON)
-    7942865_[1-45]    ampere lost_emp    yl962 PD       0:00      1 (None) lost_empire
-(base) [yl962@login-q-3 run_cvvdp]$ squeue -u yl962
-             JOBID PARTITION     NAME     USER ST       TIME  NODES NODELIST(REASON)
-        7991099_10    ampere    le_10    yl962 PD       0:00      1 (ReqNodeNotAvail, UnavailableNodes:gpu-q-[2-47])
-   8005539_[11-20]    ampere    11_20    yl962 PD       0:00      1 (None)
+ 
 
 
 cvvdp --test .mp4 --ref .mp4 --display standard_fhd --full-screen-resize bilinear --temp-resample
+
+ffmpeg -i .\1000_83_720.h265 -vsync 0 frame_%04d.png
