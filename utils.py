@@ -1,6 +1,9 @@
 from math import *
 from datetime import date
 
+
+refresh_rate = [30, 40, 50, 60, 70, 80, 90, 100, 110, 120]
+
 def get_today():
     return date.today()
 
