@@ -6,3 +6,5 @@ test_cvvdp_results
 cvvdp_plots
 h265_to_mp4
 HPC_videos
+drop_jod_range*.py
+cleaned_drop_jod_range*-*.py
